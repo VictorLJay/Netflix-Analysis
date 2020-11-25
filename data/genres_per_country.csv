@@ -1,0 +1,2689 @@
+,genre,country,count
+0,Action & Adventure,Argentina,3
+1,Action & Adventure,Australia,10
+2,Action & Adventure,Austria,0
+3,Action & Adventure,Belgium,9
+4,Action & Adventure,Brazil,3
+5,Action & Adventure,Bulgaria,3
+6,Action & Adventure,Cambodia,1
+7,Action & Adventure,Canada,29
+8,Action & Adventure,Chile,1
+9,Action & Adventure,China,47
+10,Action & Adventure,Colombia,0
+11,Action & Adventure,Croatia,0
+12,Action & Adventure,Cyprus,0
+13,Action & Adventure,Czech Republic,3
+14,Action & Adventure,Denmark,3
+15,Action & Adventure,Egypt,7
+16,Action & Adventure,Finland,1
+17,Action & Adventure,France,18
+18,Action & Adventure,Georgia,0
+19,Action & Adventure,Germany,23
+20,Action & Adventure,Ghana,0
+21,Action & Adventure,Hong Kong,64
+22,Action & Adventure,Iceland,1
+23,Action & Adventure,India,126
+24,Action & Adventure,Indonesia,5
+25,Action & Adventure,Iran,0
+26,Action & Adventure,Ireland,1
+27,Action & Adventure,Israel,1
+28,Action & Adventure,Italy,3
+29,Action & Adventure,Japan,39
+30,Action & Adventure,Lebanon,0
+31,Action & Adventure,Malaysia,3
+32,Action & Adventure,Mauritius,0
+33,Action & Adventure,Mexico,6
+34,Action & Adventure,Netherlands,1
+35,Action & Adventure,New Zealand,5
+36,Action & Adventure,Norway,2
+37,Action & Adventure,Pakistan,2
+38,Action & Adventure,Paraguay,1
+39,Action & Adventure,Peru,0
+40,Action & Adventure,Philippines,5
+41,Action & Adventure,Poland,2
+42,Action & Adventure,Portugal,0
+43,Action & Adventure,Romania,0
+44,Action & Adventure,Russia,2
+45,Action & Adventure,Saudi Arabia,0
+46,Action & Adventure,Serbia,1
+47,Action & Adventure,Singapore,5
+48,Action & Adventure,Slovenia,0
+49,Action & Adventure,Somalia,0
+50,Action & Adventure,South Africa,9
+51,Action & Adventure,South Korea,15
+52,Action & Adventure,Soviet Union,1
+53,Action & Adventure,Spain,5
+54,Action & Adventure,Sweden,2
+55,Action & Adventure,Switzerland,1
+56,Action & Adventure,Taiwan,2
+57,Action & Adventure,Thailand,7
+58,Action & Adventure,Turkey,5
+59,Action & Adventure,United Arab Emirates,3
+60,Action & Adventure,United Kingdom,59
+61,Action & Adventure,United States,247
+62,Action & Adventure,Uruguay,0
+63,Action & Adventure,Venezuela,0
+64,Children & Family Movies,Argentina,2
+65,Children & Family Movies,Australia,16
+66,Children & Family Movies,Austria,0
+67,Children & Family Movies,Belgium,4
+68,Children & Family Movies,Brazil,3
+69,Children & Family Movies,Bulgaria,1
+70,Children & Family Movies,Cambodia,1
+71,Children & Family Movies,Canada,43
+72,Children & Family Movies,Chile,1
+73,Children & Family Movies,China,9
+74,Children & Family Movies,Colombia,0
+75,Children & Family Movies,Croatia,0
+76,Children & Family Movies,Cyprus,0
+77,Children & Family Movies,Czech Republic,1
+78,Children & Family Movies,Denmark,2
+79,Children & Family Movies,Egypt,1
+80,Children & Family Movies,Finland,0
+81,Children & Family Movies,France,15
+82,Children & Family Movies,Georgia,0
+83,Children & Family Movies,Germany,13
+84,Children & Family Movies,Ghana,0
+85,Children & Family Movies,Hong Kong,2
+86,Children & Family Movies,Iceland,0
+87,Children & Family Movies,India,15
+88,Children & Family Movies,Indonesia,3
+89,Children & Family Movies,Iran,0
+90,Children & Family Movies,Ireland,3
+91,Children & Family Movies,Israel,0
+92,Children & Family Movies,Italy,2
+93,Children & Family Movies,Japan,9
+94,Children & Family Movies,Lebanon,1
+95,Children & Family Movies,Malaysia,1
+96,Children & Family Movies,Mauritius,0
+97,Children & Family Movies,Mexico,3
+98,Children & Family Movies,Netherlands,1
+99,Children & Family Movies,New Zealand,2
+100,Children & Family Movies,Norway,1
+101,Children & Family Movies,Pakistan,0
+102,Children & Family Movies,Paraguay,0
+103,Children & Family Movies,Peru,0
+104,Children & Family Movies,Philippines,0
+105,Children & Family Movies,Poland,0
+106,Children & Family Movies,Portugal,0
+107,Children & Family Movies,Romania,0
+108,Children & Family Movies,Russia,1
+109,Children & Family Movies,Saudi Arabia,0
+110,Children & Family Movies,Serbia,0
+111,Children & Family Movies,Singapore,0
+112,Children & Family Movies,Slovenia,0
+113,Children & Family Movies,Somalia,0
+114,Children & Family Movies,South Africa,0
+115,Children & Family Movies,South Korea,5
+116,Children & Family Movies,Soviet Union,0
+117,Children & Family Movies,Spain,6
+118,Children & Family Movies,Sweden,0
+119,Children & Family Movies,Switzerland,1
+120,Children & Family Movies,Taiwan,1
+121,Children & Family Movies,Thailand,0
+122,Children & Family Movies,Turkey,1
+123,Children & Family Movies,United Arab Emirates,3
+124,Children & Family Movies,United Kingdom,24
+125,Children & Family Movies,United States,258
+126,Children & Family Movies,Uruguay,0
+127,Children & Family Movies,Venezuela,0
+128,Classic Movies,Argentina,1
+129,Classic Movies,Australia,3
+130,Classic Movies,Austria,0
+131,Classic Movies,Belgium,0
+132,Classic Movies,Brazil,0
+133,Classic Movies,Bulgaria,0
+134,Classic Movies,Cambodia,0
+135,Classic Movies,Canada,0
+136,Classic Movies,Chile,0
+137,Classic Movies,China,0
+138,Classic Movies,Colombia,0
+139,Classic Movies,Croatia,0
+140,Classic Movies,Cyprus,0
+141,Classic Movies,Czech Republic,0
+142,Classic Movies,Denmark,0
+143,Classic Movies,Egypt,0
+144,Classic Movies,Finland,0
+145,Classic Movies,France,0
+146,Classic Movies,Georgia,0
+147,Classic Movies,Germany,1
+148,Classic Movies,Ghana,0
+149,Classic Movies,Hong Kong,1
+150,Classic Movies,Iceland,0
+151,Classic Movies,India,12
+152,Classic Movies,Indonesia,0
+153,Classic Movies,Iran,0
+154,Classic Movies,Ireland,0
+155,Classic Movies,Israel,0
+156,Classic Movies,Italy,2
+157,Classic Movies,Japan,3
+158,Classic Movies,Lebanon,0
+159,Classic Movies,Malaysia,0
+160,Classic Movies,Mauritius,0
+161,Classic Movies,Mexico,1
+162,Classic Movies,Netherlands,0
+163,Classic Movies,New Zealand,0
+164,Classic Movies,Norway,0
+165,Classic Movies,Pakistan,0
+166,Classic Movies,Paraguay,0
+167,Classic Movies,Peru,0
+168,Classic Movies,Philippines,0
+169,Classic Movies,Poland,2
+170,Classic Movies,Portugal,0
+171,Classic Movies,Romania,0
+172,Classic Movies,Russia,0
+173,Classic Movies,Saudi Arabia,0
+174,Classic Movies,Serbia,0
+175,Classic Movies,Singapore,0
+176,Classic Movies,Slovenia,0
+177,Classic Movies,Somalia,0
+178,Classic Movies,South Africa,0
+179,Classic Movies,South Korea,0
+180,Classic Movies,Soviet Union,0
+181,Classic Movies,Spain,1
+182,Classic Movies,Sweden,0
+183,Classic Movies,Switzerland,0
+184,Classic Movies,Taiwan,0
+185,Classic Movies,Thailand,0
+186,Classic Movies,Turkey,0
+187,Classic Movies,United Arab Emirates,0
+188,Classic Movies,United Kingdom,11
+189,Classic Movies,United States,61
+190,Classic Movies,Uruguay,0
+191,Classic Movies,Venezuela,0
+192,Comedies,Argentina,10
+193,Comedies,Australia,14
+194,Comedies,Austria,0
+195,Comedies,Belgium,13
+196,Comedies,Brazil,11
+197,Comedies,Bulgaria,0
+198,Comedies,Cambodia,1
+199,Comedies,Canada,68
+200,Comedies,Chile,6
+201,Comedies,China,23
+202,Comedies,Colombia,5
+203,Comedies,Croatia,1
+204,Comedies,Cyprus,0
+205,Comedies,Czech Republic,2
+206,Comedies,Denmark,1
+207,Comedies,Egypt,25
+208,Comedies,Finland,1
+209,Comedies,France,37
+210,Comedies,Georgia,0
+211,Comedies,Germany,31
+212,Comedies,Ghana,1
+213,Comedies,Hong Kong,31
+214,Comedies,Iceland,0
+215,Comedies,India,246
+216,Comedies,Indonesia,6
+217,Comedies,Iran,0
+218,Comedies,Ireland,4
+219,Comedies,Israel,2
+220,Comedies,Italy,6
+221,Comedies,Japan,6
+222,Comedies,Lebanon,1
+223,Comedies,Malaysia,6
+224,Comedies,Mauritius,0
+225,Comedies,Mexico,20
+226,Comedies,Netherlands,5
+227,Comedies,New Zealand,1
+228,Comedies,Norway,1
+229,Comedies,Pakistan,7
+230,Comedies,Paraguay,0
+231,Comedies,Peru,3
+232,Comedies,Philippines,17
+233,Comedies,Poland,2
+234,Comedies,Portugal,1
+235,Comedies,Romania,3
+236,Comedies,Russia,0
+237,Comedies,Saudi Arabia,1
+238,Comedies,Serbia,0
+239,Comedies,Singapore,0
+240,Comedies,Slovenia,1
+241,Comedies,Somalia,0
+242,Comedies,South Africa,5
+243,Comedies,South Korea,10
+244,Comedies,Soviet Union,0
+245,Comedies,Spain,40
+246,Comedies,Sweden,4
+247,Comedies,Switzerland,3
+248,Comedies,Taiwan,3
+249,Comedies,Thailand,12
+250,Comedies,Turkey,45
+251,Comedies,United Arab Emirates,5
+252,Comedies,United Kingdom,67
+253,Comedies,United States,447
+254,Comedies,Uruguay,1
+255,Comedies,Venezuela,0
+256,Crime TV Shows,Argentina,4
+257,Crime TV Shows,Australia,9
+258,Crime TV Shows,Austria,0
+259,Crime TV Shows,Belgium,8
+260,Crime TV Shows,Brazil,4
+261,Crime TV Shows,Bulgaria,0
+262,Crime TV Shows,Cambodia,0
+263,Crime TV Shows,Canada,15
+264,Crime TV Shows,Chile,1
+265,Crime TV Shows,China,4
+266,Crime TV Shows,Colombia,16
+267,Crime TV Shows,Croatia,0
+268,Crime TV Shows,Cyprus,0
+269,Crime TV Shows,Czech Republic,2
+270,Crime TV Shows,Denmark,1
+271,Crime TV Shows,Egypt,1
+272,Crime TV Shows,Finland,2
+273,Crime TV Shows,France,18
+274,Crime TV Shows,Georgia,0
+275,Crime TV Shows,Germany,11
+276,Crime TV Shows,Ghana,0
+277,Crime TV Shows,Hong Kong,2
+278,Crime TV Shows,Iceland,1
+279,Crime TV Shows,India,7
+280,Crime TV Shows,Indonesia,0
+281,Crime TV Shows,Iran,0
+282,Crime TV Shows,Ireland,2
+283,Crime TV Shows,Israel,4
+284,Crime TV Shows,Italy,3
+285,Crime TV Shows,Japan,12
+286,Crime TV Shows,Lebanon,2
+287,Crime TV Shows,Malaysia,0
+288,Crime TV Shows,Mauritius,0
+289,Crime TV Shows,Mexico,23
+290,Crime TV Shows,Netherlands,3
+291,Crime TV Shows,New Zealand,0
+292,Crime TV Shows,Norway,2
+293,Crime TV Shows,Pakistan,1
+294,Crime TV Shows,Paraguay,0
+295,Crime TV Shows,Peru,0
+296,Crime TV Shows,Philippines,0
+297,Crime TV Shows,Poland,3
+298,Crime TV Shows,Portugal,0
+299,Crime TV Shows,Romania,0
+300,Crime TV Shows,Russia,6
+301,Crime TV Shows,Saudi Arabia,0
+302,Crime TV Shows,Serbia,0
+303,Crime TV Shows,Singapore,3
+304,Crime TV Shows,Slovenia,0
+305,Crime TV Shows,Somalia,0
+306,Crime TV Shows,South Africa,2
+307,Crime TV Shows,South Korea,16
+308,Crime TV Shows,Soviet Union,0
+309,Crime TV Shows,Spain,20
+310,Crime TV Shows,Sweden,4
+311,Crime TV Shows,Switzerland,0
+312,Crime TV Shows,Taiwan,4
+313,Crime TV Shows,Thailand,3
+314,Crime TV Shows,Turkey,10
+315,Crime TV Shows,United Arab Emirates,1
+316,Crime TV Shows,United Kingdom,43
+317,Crime TV Shows,United States,118
+318,Crime TV Shows,Uruguay,0
+319,Crime TV Shows,Venezuela,0
+320,Cult Movies,Argentina,1
+321,Cult Movies,Australia,1
+322,Cult Movies,Austria,0
+323,Cult Movies,Belgium,1
+324,Cult Movies,Brazil,0
+325,Cult Movies,Bulgaria,0
+326,Cult Movies,Cambodia,0
+327,Cult Movies,Canada,6
+328,Cult Movies,Chile,0
+329,Cult Movies,China,1
+330,Cult Movies,Colombia,0
+331,Cult Movies,Croatia,0
+332,Cult Movies,Cyprus,0
+333,Cult Movies,Czech Republic,1
+334,Cult Movies,Denmark,1
+335,Cult Movies,Egypt,0
+336,Cult Movies,Finland,0
+337,Cult Movies,France,3
+338,Cult Movies,Georgia,0
+339,Cult Movies,Germany,2
+340,Cult Movies,Ghana,0
+341,Cult Movies,Hong Kong,4
+342,Cult Movies,Iceland,0
+343,Cult Movies,India,4
+344,Cult Movies,Indonesia,0
+345,Cult Movies,Iran,0
+346,Cult Movies,Ireland,0
+347,Cult Movies,Israel,0
+348,Cult Movies,Italy,0
+349,Cult Movies,Japan,1
+350,Cult Movies,Lebanon,0
+351,Cult Movies,Malaysia,0
+352,Cult Movies,Mauritius,0
+353,Cult Movies,Mexico,0
+354,Cult Movies,Netherlands,0
+355,Cult Movies,New Zealand,0
+356,Cult Movies,Norway,0
+357,Cult Movies,Pakistan,0
+358,Cult Movies,Paraguay,0
+359,Cult Movies,Peru,0
+360,Cult Movies,Philippines,0
+361,Cult Movies,Poland,1
+362,Cult Movies,Portugal,0
+363,Cult Movies,Romania,0
+364,Cult Movies,Russia,0
+365,Cult Movies,Saudi Arabia,0
+366,Cult Movies,Serbia,0
+367,Cult Movies,Singapore,1
+368,Cult Movies,Slovenia,0
+369,Cult Movies,Somalia,0
+370,Cult Movies,South Africa,0
+371,Cult Movies,South Korea,1
+372,Cult Movies,Soviet Union,0
+373,Cult Movies,Spain,0
+374,Cult Movies,Sweden,1
+375,Cult Movies,Switzerland,0
+376,Cult Movies,Taiwan,0
+377,Cult Movies,Thailand,0
+378,Cult Movies,Turkey,0
+379,Cult Movies,United Arab Emirates,0
+380,Cult Movies,United Kingdom,5
+381,Cult Movies,United States,37
+382,Cult Movies,Uruguay,0
+383,Cult Movies,Venezuela,0
+384,Documentaries,Argentina,6
+385,Documentaries,Australia,14
+386,Documentaries,Austria,3
+387,Documentaries,Belgium,5
+388,Documentaries,Brazil,11
+389,Documentaries,Bulgaria,0
+390,Documentaries,Cambodia,0
+391,Documentaries,Canada,31
+392,Documentaries,Chile,0
+393,Documentaries,China,5
+394,Documentaries,Colombia,2
+395,Documentaries,Croatia,0
+396,Documentaries,Cyprus,0
+397,Documentaries,Czech Republic,1
+398,Documentaries,Denmark,9
+399,Documentaries,Egypt,1
+400,Documentaries,Finland,3
+401,Documentaries,France,25
+402,Documentaries,Georgia,1
+403,Documentaries,Germany,18
+404,Documentaries,Ghana,0
+405,Documentaries,Hong Kong,1
+406,Documentaries,Iceland,0
+407,Documentaries,India,25
+408,Documentaries,Indonesia,1
+409,Documentaries,Iran,0
+410,Documentaries,Ireland,6
+411,Documentaries,Israel,6
+412,Documentaries,Italy,17
+413,Documentaries,Japan,6
+414,Documentaries,Lebanon,0
+415,Documentaries,Malaysia,0
+416,Documentaries,Mauritius,0
+417,Documentaries,Mexico,12
+418,Documentaries,Netherlands,10
+419,Documentaries,New Zealand,5
+420,Documentaries,Norway,3
+421,Documentaries,Pakistan,0
+422,Documentaries,Paraguay,0
+423,Documentaries,Peru,3
+424,Documentaries,Philippines,1
+425,Documentaries,Poland,1
+426,Documentaries,Portugal,0
+427,Documentaries,Romania,0
+428,Documentaries,Russia,2
+429,Documentaries,Saudi Arabia,0
+430,Documentaries,Serbia,1
+431,Documentaries,Singapore,0
+432,Documentaries,Slovenia,0
+433,Documentaries,Somalia,0
+434,Documentaries,South Africa,6
+435,Documentaries,South Korea,2
+436,Documentaries,Soviet Union,0
+437,Documentaries,Spain,16
+438,Documentaries,Sweden,10
+439,Documentaries,Switzerland,3
+440,Documentaries,Taiwan,1
+441,Documentaries,Thailand,3
+442,Documentaries,Turkey,0
+443,Documentaries,United Arab Emirates,4
+444,Documentaries,United Kingdom,106
+445,Documentaries,United States,401
+446,Documentaries,Uruguay,5
+447,Documentaries,Venezuela,3
+448,Docuseries,Argentina,1
+449,Docuseries,Australia,9
+450,Docuseries,Austria,0
+451,Docuseries,Belgium,0
+452,Docuseries,Brazil,2
+453,Docuseries,Bulgaria,0
+454,Docuseries,Cambodia,0
+455,Docuseries,Canada,10
+456,Docuseries,Chile,0
+457,Docuseries,China,1
+458,Docuseries,Colombia,1
+459,Docuseries,Croatia,0
+460,Docuseries,Cyprus,0
+461,Docuseries,Czech Republic,4
+462,Docuseries,Denmark,0
+463,Docuseries,Egypt,0
+464,Docuseries,Finland,0
+465,Docuseries,France,6
+466,Docuseries,Georgia,0
+467,Docuseries,Germany,5
+468,Docuseries,Ghana,0
+469,Docuseries,Hong Kong,0
+470,Docuseries,Iceland,0
+471,Docuseries,India,5
+472,Docuseries,Indonesia,0
+473,Docuseries,Iran,0
+474,Docuseries,Ireland,0
+475,Docuseries,Israel,3
+476,Docuseries,Italy,2
+477,Docuseries,Japan,0
+478,Docuseries,Lebanon,0
+479,Docuseries,Malaysia,0
+480,Docuseries,Mauritius,0
+481,Docuseries,Mexico,3
+482,Docuseries,Netherlands,0
+483,Docuseries,New Zealand,1
+484,Docuseries,Norway,1
+485,Docuseries,Pakistan,0
+486,Docuseries,Paraguay,0
+487,Docuseries,Peru,0
+488,Docuseries,Philippines,0
+489,Docuseries,Poland,1
+490,Docuseries,Portugal,0
+491,Docuseries,Romania,0
+492,Docuseries,Russia,1
+493,Docuseries,Saudi Arabia,0
+494,Docuseries,Serbia,0
+495,Docuseries,Singapore,0
+496,Docuseries,Slovenia,0
+497,Docuseries,Somalia,0
+498,Docuseries,South Africa,1
+499,Docuseries,South Korea,0
+500,Docuseries,Soviet Union,0
+501,Docuseries,Spain,6
+502,Docuseries,Sweden,0
+503,Docuseries,Switzerland,0
+504,Docuseries,Taiwan,0
+505,Docuseries,Thailand,1
+506,Docuseries,Turkey,0
+507,Docuseries,United Arab Emirates,0
+508,Docuseries,United Kingdom,83
+509,Docuseries,United States,135
+510,Docuseries,Uruguay,0
+511,Docuseries,Venezuela,0
+512,Dramas,Argentina,27
+513,Dramas,Australia,29
+514,Dramas,Austria,5
+515,Dramas,Belgium,33
+516,Dramas,Brazil,22
+517,Dramas,Bulgaria,1
+518,Dramas,Cambodia,1
+519,Dramas,Canada,56
+520,Dramas,Chile,9
+521,Dramas,China,26
+522,Dramas,Colombia,4
+523,Dramas,Croatia,2
+524,Dramas,Cyprus,0
+525,Dramas,Czech Republic,4
+526,Dramas,Denmark,14
+527,Dramas,Egypt,18
+528,Dramas,Finland,2
+529,Dramas,France,114
+530,Dramas,Georgia,1
+531,Dramas,Germany,58
+532,Dramas,Ghana,2
+533,Dramas,Hong Kong,27
+534,Dramas,Iceland,3
+535,Dramas,India,539
+536,Dramas,Indonesia,33
+537,Dramas,Iran,3
+538,Dramas,Ireland,9
+539,Dramas,Israel,8
+540,Dramas,Italy,22
+541,Dramas,Japan,10
+542,Dramas,Lebanon,2
+543,Dramas,Malaysia,7
+544,Dramas,Mauritius,0
+545,Dramas,Mexico,34
+546,Dramas,Netherlands,14
+547,Dramas,New Zealand,4
+548,Dramas,Norway,8
+549,Dramas,Pakistan,12
+550,Dramas,Paraguay,0
+551,Dramas,Peru,1
+552,Dramas,Philippines,25
+553,Dramas,Poland,19
+554,Dramas,Portugal,4
+555,Dramas,Romania,3
+556,Dramas,Russia,3
+557,Dramas,Saudi Arabia,0
+558,Dramas,Serbia,2
+559,Dramas,Singapore,7
+560,Dramas,Slovenia,1
+561,Dramas,Somalia,1
+562,Dramas,South Africa,9
+563,Dramas,South Korea,24
+564,Dramas,Soviet Union,2
+565,Dramas,Spain,63
+566,Dramas,Sweden,11
+567,Dramas,Switzerland,10
+568,Dramas,Taiwan,4
+569,Dramas,Thailand,3
+570,Dramas,Turkey,17
+571,Dramas,United Arab Emirates,10
+572,Dramas,United Kingdom,122
+573,Dramas,United States,533
+574,Dramas,Uruguay,4
+575,Dramas,Venezuela,0
+576,Horror Movies,Argentina,3
+577,Horror Movies,Australia,3
+578,Horror Movies,Austria,0
+579,Horror Movies,Belgium,4
+580,Horror Movies,Brazil,0
+581,Horror Movies,Bulgaria,1
+582,Horror Movies,Cambodia,0
+583,Horror Movies,Canada,22
+584,Horror Movies,Chile,2
+585,Horror Movies,China,1
+586,Horror Movies,Colombia,0
+587,Horror Movies,Croatia,0
+588,Horror Movies,Cyprus,0
+589,Horror Movies,Czech Republic,0
+590,Horror Movies,Denmark,0
+591,Horror Movies,Egypt,1
+592,Horror Movies,Finland,0
+593,Horror Movies,France,9
+594,Horror Movies,Georgia,0
+595,Horror Movies,Germany,5
+596,Horror Movies,Ghana,0
+597,Horror Movies,Hong Kong,0
+598,Horror Movies,Iceland,1
+599,Horror Movies,India,31
+600,Horror Movies,Indonesia,10
+601,Horror Movies,Iran,1
+602,Horror Movies,Ireland,2
+603,Horror Movies,Israel,1
+604,Horror Movies,Italy,1
+605,Horror Movies,Japan,3
+606,Horror Movies,Lebanon,0
+607,Horror Movies,Malaysia,4
+608,Horror Movies,Mauritius,0
+609,Horror Movies,Mexico,4
+610,Horror Movies,Netherlands,0
+611,Horror Movies,New Zealand,0
+612,Horror Movies,Norway,0
+613,Horror Movies,Pakistan,1
+614,Horror Movies,Paraguay,0
+615,Horror Movies,Peru,2
+616,Horror Movies,Philippines,3
+617,Horror Movies,Poland,1
+618,Horror Movies,Portugal,0
+619,Horror Movies,Romania,0
+620,Horror Movies,Russia,0
+621,Horror Movies,Saudi Arabia,0
+622,Horror Movies,Serbia,1
+623,Horror Movies,Singapore,3
+624,Horror Movies,Slovenia,1
+625,Horror Movies,Somalia,0
+626,Horror Movies,South Africa,2
+627,Horror Movies,South Korea,3
+628,Horror Movies,Soviet Union,0
+629,Horror Movies,Spain,9
+630,Horror Movies,Sweden,0
+631,Horror Movies,Switzerland,0
+632,Horror Movies,Taiwan,1
+633,Horror Movies,Thailand,15
+634,Horror Movies,Turkey,6
+635,Horror Movies,United Arab Emirates,1
+636,Horror Movies,United Kingdom,22
+637,Horror Movies,United States,145
+638,Horror Movies,Uruguay,0
+639,Horror Movies,Venezuela,0
+640,Independent Movies,Argentina,6
+641,Independent Movies,Australia,7
+642,Independent Movies,Austria,4
+643,Independent Movies,Belgium,12
+644,Independent Movies,Brazil,10
+645,Independent Movies,Bulgaria,1
+646,Independent Movies,Cambodia,0
+647,Independent Movies,Canada,32
+648,Independent Movies,Chile,5
+649,Independent Movies,China,1
+650,Independent Movies,Colombia,2
+651,Independent Movies,Croatia,2
+652,Independent Movies,Cyprus,0
+653,Independent Movies,Czech Republic,1
+654,Independent Movies,Denmark,7
+655,Independent Movies,Egypt,3
+656,Independent Movies,Finland,0
+657,Independent Movies,France,50
+658,Independent Movies,Georgia,1
+659,Independent Movies,Germany,23
+660,Independent Movies,Ghana,1
+661,Independent Movies,Hong Kong,3
+662,Independent Movies,Iceland,2
+663,Independent Movies,India,128
+664,Independent Movies,Indonesia,0
+665,Independent Movies,Iran,2
+666,Independent Movies,Ireland,3
+667,Independent Movies,Israel,4
+668,Independent Movies,Italy,3
+669,Independent Movies,Japan,5
+670,Independent Movies,Lebanon,0
+671,Independent Movies,Malaysia,0
+672,Independent Movies,Mauritius,0
+673,Independent Movies,Mexico,15
+674,Independent Movies,Netherlands,3
+675,Independent Movies,New Zealand,2
+676,Independent Movies,Norway,2
+677,Independent Movies,Pakistan,4
+678,Independent Movies,Paraguay,0
+679,Independent Movies,Peru,1
+680,Independent Movies,Philippines,0
+681,Independent Movies,Poland,3
+682,Independent Movies,Portugal,2
+683,Independent Movies,Romania,0
+684,Independent Movies,Russia,0
+685,Independent Movies,Saudi Arabia,0
+686,Independent Movies,Serbia,1
+687,Independent Movies,Singapore,1
+688,Independent Movies,Slovenia,2
+689,Independent Movies,Somalia,0
+690,Independent Movies,South Africa,3
+691,Independent Movies,South Korea,2
+692,Independent Movies,Soviet Union,0
+693,Independent Movies,Spain,17
+694,Independent Movies,Sweden,6
+695,Independent Movies,Switzerland,3
+696,Independent Movies,Taiwan,1
+697,Independent Movies,Thailand,0
+698,Independent Movies,Turkey,2
+699,Independent Movies,United Arab Emirates,2
+700,Independent Movies,United Kingdom,52
+701,Independent Movies,United States,287
+702,Independent Movies,Uruguay,1
+703,Independent Movies,Venezuela,0
+704,International Movies,Argentina,42
+705,International Movies,Australia,26
+706,International Movies,Austria,7
+707,International Movies,Belgium,47
+708,International Movies,Brazil,32
+709,International Movies,Bulgaria,4
+710,International Movies,Cambodia,1
+711,International Movies,Canada,44
+712,International Movies,Chile,13
+713,International Movies,China,59
+714,International Movies,Colombia,10
+715,International Movies,Croatia,2
+716,International Movies,Cyprus,0
+717,International Movies,Czech Republic,8
+718,International Movies,Denmark,20
+719,International Movies,Egypt,44
+720,International Movies,Finland,6
+721,International Movies,France,148
+722,International Movies,Georgia,2
+723,International Movies,Germany,69
+724,International Movies,Ghana,2
+725,International Movies,Hong Kong,81
+726,International Movies,Iceland,3
+727,International Movies,India,719
+728,International Movies,Indonesia,46
+729,International Movies,Iran,3
+730,International Movies,Ireland,12
+731,International Movies,Israel,13
+732,International Movies,Italy,38
+733,International Movies,Japan,44
+734,International Movies,Lebanon,1
+735,International Movies,Malaysia,13
+736,International Movies,Mauritius,0
+737,International Movies,Mexico,52
+738,International Movies,Netherlands,29
+739,International Movies,New Zealand,8
+740,International Movies,Norway,11
+741,International Movies,Pakistan,19
+742,International Movies,Paraguay,1
+743,International Movies,Peru,8
+744,International Movies,Philippines,46
+745,International Movies,Poland,17
+746,International Movies,Portugal,3
+747,International Movies,Romania,6
+748,International Movies,Russia,6
+749,International Movies,Saudi Arabia,1
+750,International Movies,Serbia,3
+751,International Movies,Singapore,13
+752,International Movies,Slovenia,2
+753,International Movies,Somalia,0
+754,International Movies,South Africa,14
+755,International Movies,South Korea,34
+756,International Movies,Soviet Union,3
+757,International Movies,Spain,111
+758,International Movies,Sweden,15
+759,International Movies,Switzerland,11
+760,International Movies,Taiwan,8
+761,International Movies,Thailand,35
+762,International Movies,Turkey,60
+763,International Movies,United Arab Emirates,11
+764,International Movies,United Kingdom,126
+765,International Movies,United States,116
+766,International Movies,Uruguay,8
+767,International Movies,Venezuela,2
+768,International TV Shows,Argentina,10
+769,International TV Shows,Australia,27
+770,International TV Shows,Austria,0
+771,International TV Shows,Belgium,10
+772,International TV Shows,Brazil,14
+773,International TV Shows,Bulgaria,0
+774,International TV Shows,Cambodia,0
+775,International TV Shows,Canada,23
+776,International TV Shows,Chile,4
+777,International TV Shows,China,31
+778,International TV Shows,Colombia,21
+779,International TV Shows,Croatia,1
+780,International TV Shows,Cyprus,0
+781,International TV Shows,Czech Republic,2
+782,International TV Shows,Denmark,6
+783,International TV Shows,Egypt,9
+784,International TV Shows,Finland,2
+785,International TV Shows,France,35
+786,International TV Shows,Georgia,0
+787,International TV Shows,Germany,18
+788,International TV Shows,Ghana,0
+789,International TV Shows,Hong Kong,4
+790,International TV Shows,Iceland,1
+791,International TV Shows,India,48
+792,International TV Shows,Indonesia,1
+793,International TV Shows,Iran,0
+794,International TV Shows,Ireland,3
+795,International TV Shows,Israel,8
+796,International TV Shows,Italy,6
+797,International TV Shows,Japan,112
+798,International TV Shows,Lebanon,7
+799,International TV Shows,Malaysia,3
+800,International TV Shows,Mauritius,1
+801,International TV Shows,Mexico,31
+802,International TV Shows,Netherlands,5
+803,International TV Shows,New Zealand,2
+804,International TV Shows,Norway,8
+805,International TV Shows,Pakistan,4
+806,International TV Shows,Paraguay,0
+807,International TV Shows,Peru,0
+808,International TV Shows,Philippines,1
+809,International TV Shows,Poland,4
+810,International TV Shows,Portugal,0
+811,International TV Shows,Romania,0
+812,International TV Shows,Russia,9
+813,International TV Shows,Saudi Arabia,1
+814,International TV Shows,Serbia,0
+815,International TV Shows,Singapore,11
+816,International TV Shows,Slovenia,0
+817,International TV Shows,Somalia,0
+818,International TV Shows,South Africa,3
+819,International TV Shows,South Korea,99
+820,International TV Shows,Soviet Union,0
+821,International TV Shows,Spain,40
+822,International TV Shows,Sweden,7
+823,International TV Shows,Switzerland,1
+824,International TV Shows,Taiwan,65
+825,International TV Shows,Thailand,17
+826,International TV Shows,Turkey,25
+827,International TV Shows,United Arab Emirates,1
+828,International TV Shows,United Kingdom,107
+829,International TV Shows,United States,58
+830,International TV Shows,Uruguay,0
+831,International TV Shows,Venezuela,0
+832,Kids' TV,Argentina,3
+833,Kids' TV,Australia,14
+834,Kids' TV,Austria,1
+835,Kids' TV,Belgium,0
+836,Kids' TV,Brazil,2
+837,Kids' TV,Bulgaria,0
+838,Kids' TV,Cambodia,0
+839,Kids' TV,Canada,51
+840,Kids' TV,Chile,0
+841,Kids' TV,China,4
+842,Kids' TV,Colombia,0
+843,Kids' TV,Croatia,0
+844,Kids' TV,Cyprus,1
+845,Kids' TV,Czech Republic,0
+846,Kids' TV,Denmark,3
+847,Kids' TV,Egypt,0
+848,Kids' TV,Finland,1
+849,Kids' TV,France,32
+850,Kids' TV,Georgia,0
+851,Kids' TV,Germany,5
+852,Kids' TV,Ghana,0
+853,Kids' TV,Hong Kong,0
+854,Kids' TV,Iceland,0
+855,Kids' TV,India,5
+856,Kids' TV,Indonesia,1
+857,Kids' TV,Iran,0
+858,Kids' TV,Ireland,2
+859,Kids' TV,Israel,0
+860,Kids' TV,Italy,7
+861,Kids' TV,Japan,27
+862,Kids' TV,Lebanon,0
+863,Kids' TV,Malaysia,4
+864,Kids' TV,Mauritius,0
+865,Kids' TV,Mexico,4
+866,Kids' TV,Netherlands,3
+867,Kids' TV,New Zealand,4
+868,Kids' TV,Norway,0
+869,Kids' TV,Pakistan,0
+870,Kids' TV,Paraguay,0
+871,Kids' TV,Peru,0
+872,Kids' TV,Philippines,0
+873,Kids' TV,Poland,0
+874,Kids' TV,Portugal,0
+875,Kids' TV,Romania,0
+876,Kids' TV,Russia,5
+877,Kids' TV,Saudi Arabia,0
+878,Kids' TV,Serbia,0
+879,Kids' TV,Singapore,2
+880,Kids' TV,Slovenia,0
+881,Kids' TV,Somalia,0
+882,Kids' TV,South Africa,0
+883,Kids' TV,South Korea,16
+884,Kids' TV,Soviet Union,0
+885,Kids' TV,Spain,3
+886,Kids' TV,Sweden,1
+887,Kids' TV,Switzerland,0
+888,Kids' TV,Taiwan,0
+889,Kids' TV,Thailand,1
+890,Kids' TV,Turkey,0
+891,Kids' TV,United Arab Emirates,0
+892,Kids' TV,United Kingdom,22
+893,Kids' TV,United States,159
+894,Kids' TV,Uruguay,0
+895,Kids' TV,Venezuela,0
+896,Movies,Argentina,1
+897,Movies,Australia,3
+898,Movies,Austria,0
+899,Movies,Belgium,0
+900,Movies,Brazil,0
+901,Movies,Bulgaria,0
+902,Movies,Cambodia,0
+903,Movies,Canada,5
+904,Movies,Chile,0
+905,Movies,China,0
+906,Movies,Colombia,0
+907,Movies,Croatia,0
+908,Movies,Cyprus,0
+909,Movies,Czech Republic,0
+910,Movies,Denmark,0
+911,Movies,Egypt,0
+912,Movies,Finland,0
+913,Movies,France,1
+914,Movies,Georgia,0
+915,Movies,Germany,2
+916,Movies,Ghana,0
+917,Movies,Hong Kong,0
+918,Movies,Iceland,0
+919,Movies,India,0
+920,Movies,Indonesia,0
+921,Movies,Iran,0
+922,Movies,Ireland,0
+923,Movies,Israel,0
+924,Movies,Italy,0
+925,Movies,Japan,2
+926,Movies,Lebanon,0
+927,Movies,Malaysia,0
+928,Movies,Mauritius,0
+929,Movies,Mexico,1
+930,Movies,Netherlands,0
+931,Movies,New Zealand,0
+932,Movies,Norway,0
+933,Movies,Pakistan,0
+934,Movies,Paraguay,0
+935,Movies,Peru,0
+936,Movies,Philippines,0
+937,Movies,Poland,0
+938,Movies,Portugal,0
+939,Movies,Romania,0
+940,Movies,Russia,0
+941,Movies,Saudi Arabia,0
+942,Movies,Serbia,0
+943,Movies,Singapore,0
+944,Movies,Slovenia,0
+945,Movies,Somalia,0
+946,Movies,South Africa,0
+947,Movies,South Korea,1
+948,Movies,Soviet Union,0
+949,Movies,Spain,3
+950,Movies,Sweden,0
+951,Movies,Switzerland,0
+952,Movies,Taiwan,0
+953,Movies,Thailand,0
+954,Movies,Turkey,0
+955,Movies,United Arab Emirates,0
+956,Movies,United Kingdom,3
+957,Movies,United States,23
+958,Movies,Uruguay,0
+959,Movies,Venezuela,0
+960,Music & Musicals,Argentina,3
+961,Music & Musicals,Australia,3
+962,Music & Musicals,Austria,0
+963,Music & Musicals,Belgium,2
+964,Music & Musicals,Brazil,0
+965,Music & Musicals,Bulgaria,0
+966,Music & Musicals,Cambodia,0
+967,Music & Musicals,Canada,9
+968,Music & Musicals,Chile,0
+969,Music & Musicals,China,1
+970,Music & Musicals,Colombia,0
+971,Music & Musicals,Croatia,0
+972,Music & Musicals,Cyprus,0
+973,Music & Musicals,Czech Republic,0
+974,Music & Musicals,Denmark,0
+975,Music & Musicals,Egypt,2
+976,Music & Musicals,Finland,1
+977,Music & Musicals,France,3
+978,Music & Musicals,Georgia,0
+979,Music & Musicals,Germany,6
+980,Music & Musicals,Ghana,0
+981,Music & Musicals,Hong Kong,0
+982,Music & Musicals,Iceland,0
+983,Music & Musicals,India,92
+984,Music & Musicals,Indonesia,0
+985,Music & Musicals,Iran,0
+986,Music & Musicals,Ireland,0
+987,Music & Musicals,Israel,0
+988,Music & Musicals,Italy,3
+989,Music & Musicals,Japan,3
+990,Music & Musicals,Lebanon,0
+991,Music & Musicals,Malaysia,0
+992,Music & Musicals,Mauritius,0
+993,Music & Musicals,Mexico,2
+994,Music & Musicals,Netherlands,1
+995,Music & Musicals,New Zealand,0
+996,Music & Musicals,Norway,0
+997,Music & Musicals,Pakistan,3
+998,Music & Musicals,Paraguay,0
+999,Music & Musicals,Peru,0
+1000,Music & Musicals,Philippines,0
+1001,Music & Musicals,Poland,0
+1002,Music & Musicals,Portugal,0
+1003,Music & Musicals,Romania,0
+1004,Music & Musicals,Russia,0
+1005,Music & Musicals,Saudi Arabia,0
+1006,Music & Musicals,Serbia,0
+1007,Music & Musicals,Singapore,0
+1008,Music & Musicals,Slovenia,0
+1009,Music & Musicals,Somalia,0
+1010,Music & Musicals,South Africa,0
+1011,Music & Musicals,South Korea,1
+1012,Music & Musicals,Soviet Union,1
+1013,Music & Musicals,Spain,4
+1014,Music & Musicals,Sweden,3
+1015,Music & Musicals,Switzerland,0
+1016,Music & Musicals,Taiwan,1
+1017,Music & Musicals,Thailand,1
+1018,Music & Musicals,Turkey,1
+1019,Music & Musicals,United Arab Emirates,0
+1020,Music & Musicals,United Kingdom,23
+1021,Music & Musicals,United States,77
+1022,Music & Musicals,Uruguay,0
+1023,Music & Musicals,Venezuela,0
+1024,Reality TV,Argentina,1
+1025,Reality TV,Australia,9
+1026,Reality TV,Austria,0
+1027,Reality TV,Belgium,0
+1028,Reality TV,Brazil,3
+1029,Reality TV,Bulgaria,0
+1030,Reality TV,Cambodia,0
+1031,Reality TV,Canada,7
+1032,Reality TV,Chile,0
+1033,Reality TV,China,0
+1034,Reality TV,Colombia,0
+1035,Reality TV,Croatia,0
+1036,Reality TV,Cyprus,0
+1037,Reality TV,Czech Republic,1
+1038,Reality TV,Denmark,0
+1039,Reality TV,Egypt,0
+1040,Reality TV,Finland,0
+1041,Reality TV,France,2
+1042,Reality TV,Georgia,0
+1043,Reality TV,Germany,2
+1044,Reality TV,Ghana,0
+1045,Reality TV,Hong Kong,0
+1046,Reality TV,Iceland,0
+1047,Reality TV,India,2
+1048,Reality TV,Indonesia,0
+1049,Reality TV,Iran,0
+1050,Reality TV,Ireland,0
+1051,Reality TV,Israel,0
+1052,Reality TV,Italy,0
+1053,Reality TV,Japan,8
+1054,Reality TV,Lebanon,0
+1055,Reality TV,Malaysia,0
+1056,Reality TV,Mauritius,0
+1057,Reality TV,Mexico,3
+1058,Reality TV,Netherlands,0
+1059,Reality TV,New Zealand,1
+1060,Reality TV,Norway,0
+1061,Reality TV,Pakistan,0
+1062,Reality TV,Paraguay,0
+1063,Reality TV,Peru,0
+1064,Reality TV,Philippines,0
+1065,Reality TV,Poland,0
+1066,Reality TV,Portugal,0
+1067,Reality TV,Romania,0
+1068,Reality TV,Russia,0
+1069,Reality TV,Saudi Arabia,0
+1070,Reality TV,Serbia,0
+1071,Reality TV,Singapore,2
+1072,Reality TV,Slovenia,0
+1073,Reality TV,Somalia,0
+1074,Reality TV,South Africa,0
+1075,Reality TV,South Korea,4
+1076,Reality TV,Soviet Union,0
+1077,Reality TV,Spain,1
+1078,Reality TV,Sweden,0
+1079,Reality TV,Switzerland,0
+1080,Reality TV,Taiwan,0
+1081,Reality TV,Thailand,0
+1082,Reality TV,Turkey,0
+1083,Reality TV,United Arab Emirates,0
+1084,Reality TV,United Kingdom,27
+1085,Reality TV,United States,68
+1086,Reality TV,Uruguay,0
+1087,Reality TV,Venezuela,0
+1088,Romantic Movies,Argentina,3
+1089,Romantic Movies,Australia,3
+1090,Romantic Movies,Austria,0
+1091,Romantic Movies,Belgium,3
+1092,Romantic Movies,Brazil,1
+1093,Romantic Movies,Bulgaria,0
+1094,Romantic Movies,Cambodia,0
+1095,Romantic Movies,Canada,16
+1096,Romantic Movies,Chile,0
+1097,Romantic Movies,China,9
+1098,Romantic Movies,Colombia,2
+1099,Romantic Movies,Croatia,0
+1100,Romantic Movies,Cyprus,0
+1101,Romantic Movies,Czech Republic,0
+1102,Romantic Movies,Denmark,1
+1103,Romantic Movies,Egypt,5
+1104,Romantic Movies,Finland,0
+1105,Romantic Movies,France,18
+1106,Romantic Movies,Georgia,0
+1107,Romantic Movies,Germany,7
+1108,Romantic Movies,Ghana,0
+1109,Romantic Movies,Hong Kong,10
+1110,Romantic Movies,Iceland,0
+1111,Romantic Movies,India,91
+1112,Romantic Movies,Indonesia,14
+1113,Romantic Movies,Iran,0
+1114,Romantic Movies,Ireland,4
+1115,Romantic Movies,Israel,0
+1116,Romantic Movies,Italy,3
+1117,Romantic Movies,Japan,4
+1118,Romantic Movies,Lebanon,0
+1119,Romantic Movies,Malaysia,1
+1120,Romantic Movies,Mauritius,0
+1121,Romantic Movies,Mexico,6
+1122,Romantic Movies,Netherlands,3
+1123,Romantic Movies,New Zealand,0
+1124,Romantic Movies,Norway,1
+1125,Romantic Movies,Pakistan,4
+1126,Romantic Movies,Paraguay,0
+1127,Romantic Movies,Peru,1
+1128,Romantic Movies,Philippines,20
+1129,Romantic Movies,Poland,2
+1130,Romantic Movies,Portugal,1
+1131,Romantic Movies,Romania,1
+1132,Romantic Movies,Russia,0
+1133,Romantic Movies,Saudi Arabia,1
+1134,Romantic Movies,Serbia,0
+1135,Romantic Movies,Singapore,1
+1136,Romantic Movies,Slovenia,0
+1137,Romantic Movies,Somalia,0
+1138,Romantic Movies,South Africa,2
+1139,Romantic Movies,South Korea,1
+1140,Romantic Movies,Soviet Union,1
+1141,Romantic Movies,Spain,9
+1142,Romantic Movies,Sweden,1
+1143,Romantic Movies,Switzerland,0
+1144,Romantic Movies,Taiwan,2
+1145,Romantic Movies,Thailand,9
+1146,Romantic Movies,Turkey,16
+1147,Romantic Movies,United Arab Emirates,0
+1148,Romantic Movies,United Kingdom,23
+1149,Romantic Movies,United States,133
+1150,Romantic Movies,Uruguay,0
+1151,Romantic Movies,Venezuela,0
+1152,Romantic TV Shows,Argentina,1
+1153,Romantic TV Shows,Australia,2
+1154,Romantic TV Shows,Austria,0
+1155,Romantic TV Shows,Belgium,0
+1156,Romantic TV Shows,Brazil,1
+1157,Romantic TV Shows,Bulgaria,0
+1158,Romantic TV Shows,Cambodia,0
+1159,Romantic TV Shows,Canada,2
+1160,Romantic TV Shows,Chile,0
+1161,Romantic TV Shows,China,18
+1162,Romantic TV Shows,Colombia,2
+1163,Romantic TV Shows,Croatia,0
+1164,Romantic TV Shows,Cyprus,0
+1165,Romantic TV Shows,Czech Republic,0
+1166,Romantic TV Shows,Denmark,0
+1167,Romantic TV Shows,Egypt,2
+1168,Romantic TV Shows,Finland,0
+1169,Romantic TV Shows,France,2
+1170,Romantic TV Shows,Georgia,0
+1171,Romantic TV Shows,Germany,0
+1172,Romantic TV Shows,Ghana,0
+1173,Romantic TV Shows,Hong Kong,1
+1174,Romantic TV Shows,Iceland,0
+1175,Romantic TV Shows,India,6
+1176,Romantic TV Shows,Indonesia,1
+1177,Romantic TV Shows,Iran,0
+1178,Romantic TV Shows,Ireland,0
+1179,Romantic TV Shows,Israel,0
+1180,Romantic TV Shows,Italy,0
+1181,Romantic TV Shows,Japan,17
+1182,Romantic TV Shows,Lebanon,1
+1183,Romantic TV Shows,Malaysia,1
+1184,Romantic TV Shows,Mauritius,0
+1185,Romantic TV Shows,Mexico,5
+1186,Romantic TV Shows,Netherlands,0
+1187,Romantic TV Shows,New Zealand,0
+1188,Romantic TV Shows,Norway,1
+1189,Romantic TV Shows,Pakistan,4
+1190,Romantic TV Shows,Paraguay,0
+1191,Romantic TV Shows,Peru,0
+1192,Romantic TV Shows,Philippines,0
+1193,Romantic TV Shows,Poland,0
+1194,Romantic TV Shows,Portugal,0
+1195,Romantic TV Shows,Romania,0
+1196,Romantic TV Shows,Russia,1
+1197,Romantic TV Shows,Saudi Arabia,0
+1198,Romantic TV Shows,Serbia,0
+1199,Romantic TV Shows,Singapore,3
+1200,Romantic TV Shows,Slovenia,0
+1201,Romantic TV Shows,Somalia,0
+1202,Romantic TV Shows,South Africa,1
+1203,Romantic TV Shows,South Korea,49
+1204,Romantic TV Shows,Soviet Union,0
+1205,Romantic TV Shows,Spain,8
+1206,Romantic TV Shows,Sweden,1
+1207,Romantic TV Shows,Switzerland,0
+1208,Romantic TV Shows,Taiwan,47
+1209,Romantic TV Shows,Thailand,8
+1210,Romantic TV Shows,Turkey,5
+1211,Romantic TV Shows,United Arab Emirates,0
+1212,Romantic TV Shows,United Kingdom,9
+1213,Romantic TV Shows,United States,28
+1214,Romantic TV Shows,Uruguay,0
+1215,Romantic TV Shows,Venezuela,0
+1216,Sci-Fi & Fantasy,Argentina,1
+1217,Sci-Fi & Fantasy,Australia,6
+1218,Sci-Fi & Fantasy,Austria,1
+1219,Sci-Fi & Fantasy,Belgium,2
+1220,Sci-Fi & Fantasy,Brazil,0
+1221,Sci-Fi & Fantasy,Bulgaria,1
+1222,Sci-Fi & Fantasy,Cambodia,0
+1223,Sci-Fi & Fantasy,Canada,16
+1224,Sci-Fi & Fantasy,Chile,0
+1225,Sci-Fi & Fantasy,China,11
+1226,Sci-Fi & Fantasy,Colombia,1
+1227,Sci-Fi & Fantasy,Croatia,0
+1228,Sci-Fi & Fantasy,Cyprus,0
+1229,Sci-Fi & Fantasy,Czech Republic,2
+1230,Sci-Fi & Fantasy,Denmark,0
+1231,Sci-Fi & Fantasy,Egypt,0
+1232,Sci-Fi & Fantasy,Finland,0
+1233,Sci-Fi & Fantasy,France,8
+1234,Sci-Fi & Fantasy,Georgia,0
+1235,Sci-Fi & Fantasy,Germany,10
+1236,Sci-Fi & Fantasy,Ghana,0
+1237,Sci-Fi & Fantasy,Hong Kong,3
+1238,Sci-Fi & Fantasy,Iceland,1
+1239,Sci-Fi & Fantasy,India,11
+1240,Sci-Fi & Fantasy,Indonesia,2
+1241,Sci-Fi & Fantasy,Iran,0
+1242,Sci-Fi & Fantasy,Ireland,0
+1243,Sci-Fi & Fantasy,Israel,1
+1244,Sci-Fi & Fantasy,Italy,1
+1245,Sci-Fi & Fantasy,Japan,8
+1246,Sci-Fi & Fantasy,Lebanon,0
+1247,Sci-Fi & Fantasy,Malaysia,0
+1248,Sci-Fi & Fantasy,Mauritius,0
+1249,Sci-Fi & Fantasy,Mexico,3
+1250,Sci-Fi & Fantasy,Netherlands,2
+1251,Sci-Fi & Fantasy,New Zealand,3
+1252,Sci-Fi & Fantasy,Norway,0
+1253,Sci-Fi & Fantasy,Pakistan,0
+1254,Sci-Fi & Fantasy,Paraguay,0
+1255,Sci-Fi & Fantasy,Peru,0
+1256,Sci-Fi & Fantasy,Philippines,0
+1257,Sci-Fi & Fantasy,Poland,1
+1258,Sci-Fi & Fantasy,Portugal,0
+1259,Sci-Fi & Fantasy,Romania,1
+1260,Sci-Fi & Fantasy,Russia,0
+1261,Sci-Fi & Fantasy,Saudi Arabia,0
+1262,Sci-Fi & Fantasy,Serbia,2
+1263,Sci-Fi & Fantasy,Singapore,1
+1264,Sci-Fi & Fantasy,Slovenia,1
+1265,Sci-Fi & Fantasy,Somalia,0
+1266,Sci-Fi & Fantasy,South Africa,3
+1267,Sci-Fi & Fantasy,South Korea,4
+1268,Sci-Fi & Fantasy,Soviet Union,1
+1269,Sci-Fi & Fantasy,Spain,8
+1270,Sci-Fi & Fantasy,Sweden,0
+1271,Sci-Fi & Fantasy,Switzerland,1
+1272,Sci-Fi & Fantasy,Taiwan,0
+1273,Sci-Fi & Fantasy,Thailand,0
+1274,Sci-Fi & Fantasy,Turkey,0
+1275,Sci-Fi & Fantasy,United Arab Emirates,2
+1276,Sci-Fi & Fantasy,United Kingdom,28
+1277,Sci-Fi & Fantasy,United States,134
+1278,Sci-Fi & Fantasy,Uruguay,0
+1279,Sci-Fi & Fantasy,Venezuela,0
+1280,Spanish-Language TV Shows,Argentina,14
+1281,Spanish-Language TV Shows,Australia,0
+1282,Spanish-Language TV Shows,Austria,0
+1283,Spanish-Language TV Shows,Belgium,0
+1284,Spanish-Language TV Shows,Brazil,1
+1285,Spanish-Language TV Shows,Bulgaria,0
+1286,Spanish-Language TV Shows,Cambodia,0
+1287,Spanish-Language TV Shows,Canada,0
+1288,Spanish-Language TV Shows,Chile,4
+1289,Spanish-Language TV Shows,China,0
+1290,Spanish-Language TV Shows,Colombia,21
+1291,Spanish-Language TV Shows,Croatia,0
+1292,Spanish-Language TV Shows,Cyprus,0
+1293,Spanish-Language TV Shows,Czech Republic,0
+1294,Spanish-Language TV Shows,Denmark,0
+1295,Spanish-Language TV Shows,Egypt,0
+1296,Spanish-Language TV Shows,Finland,0
+1297,Spanish-Language TV Shows,France,0
+1298,Spanish-Language TV Shows,Georgia,0
+1299,Spanish-Language TV Shows,Germany,1
+1300,Spanish-Language TV Shows,Ghana,0
+1301,Spanish-Language TV Shows,Hong Kong,0
+1302,Spanish-Language TV Shows,Iceland,0
+1303,Spanish-Language TV Shows,India,0
+1304,Spanish-Language TV Shows,Indonesia,0
+1305,Spanish-Language TV Shows,Iran,0
+1306,Spanish-Language TV Shows,Ireland,0
+1307,Spanish-Language TV Shows,Israel,0
+1308,Spanish-Language TV Shows,Italy,1
+1309,Spanish-Language TV Shows,Japan,1
+1310,Spanish-Language TV Shows,Lebanon,0
+1311,Spanish-Language TV Shows,Malaysia,0
+1312,Spanish-Language TV Shows,Mauritius,0
+1313,Spanish-Language TV Shows,Mexico,34
+1314,Spanish-Language TV Shows,Netherlands,0
+1315,Spanish-Language TV Shows,New Zealand,0
+1316,Spanish-Language TV Shows,Norway,0
+1317,Spanish-Language TV Shows,Pakistan,0
+1318,Spanish-Language TV Shows,Paraguay,0
+1319,Spanish-Language TV Shows,Peru,0
+1320,Spanish-Language TV Shows,Philippines,0
+1321,Spanish-Language TV Shows,Poland,0
+1322,Spanish-Language TV Shows,Portugal,0
+1323,Spanish-Language TV Shows,Romania,0
+1324,Spanish-Language TV Shows,Russia,0
+1325,Spanish-Language TV Shows,Saudi Arabia,0
+1326,Spanish-Language TV Shows,Serbia,0
+1327,Spanish-Language TV Shows,Singapore,0
+1328,Spanish-Language TV Shows,Slovenia,0
+1329,Spanish-Language TV Shows,Somalia,0
+1330,Spanish-Language TV Shows,South Africa,0
+1331,Spanish-Language TV Shows,South Korea,1
+1332,Spanish-Language TV Shows,Soviet Union,0
+1333,Spanish-Language TV Shows,Spain,31
+1334,Spanish-Language TV Shows,Sweden,0
+1335,Spanish-Language TV Shows,Switzerland,0
+1336,Spanish-Language TV Shows,Taiwan,0
+1337,Spanish-Language TV Shows,Thailand,0
+1338,Spanish-Language TV Shows,Turkey,0
+1339,Spanish-Language TV Shows,United Arab Emirates,0
+1340,Spanish-Language TV Shows,United Kingdom,1
+1341,Spanish-Language TV Shows,United States,25
+1342,Spanish-Language TV Shows,Uruguay,0
+1343,Spanish-Language TV Shows,Venezuela,0
+1344,Sports Movies,Argentina,4
+1345,Sports Movies,Australia,7
+1346,Sports Movies,Austria,1
+1347,Sports Movies,Belgium,0
+1348,Sports Movies,Brazil,1
+1349,Sports Movies,Bulgaria,0
+1350,Sports Movies,Cambodia,0
+1351,Sports Movies,Canada,9
+1352,Sports Movies,Chile,1
+1353,Sports Movies,China,0
+1354,Sports Movies,Colombia,0
+1355,Sports Movies,Croatia,0
+1356,Sports Movies,Cyprus,0
+1357,Sports Movies,Czech Republic,1
+1358,Sports Movies,Denmark,1
+1359,Sports Movies,Egypt,0
+1360,Sports Movies,Finland,1
+1361,Sports Movies,France,10
+1362,Sports Movies,Georgia,0
+1363,Sports Movies,Germany,3
+1364,Sports Movies,Ghana,0
+1365,Sports Movies,Hong Kong,1
+1366,Sports Movies,Iceland,0
+1367,Sports Movies,India,14
+1368,Sports Movies,Indonesia,4
+1369,Sports Movies,Iran,0
+1370,Sports Movies,Ireland,2
+1371,Sports Movies,Israel,1
+1372,Sports Movies,Italy,2
+1373,Sports Movies,Japan,1
+1374,Sports Movies,Lebanon,0
+1375,Sports Movies,Malaysia,0
+1376,Sports Movies,Mauritius,0
+1377,Sports Movies,Mexico,3
+1378,Sports Movies,Netherlands,0
+1379,Sports Movies,New Zealand,2
+1380,Sports Movies,Norway,0
+1381,Sports Movies,Pakistan,0
+1382,Sports Movies,Paraguay,0
+1383,Sports Movies,Peru,1
+1384,Sports Movies,Philippines,1
+1385,Sports Movies,Poland,0
+1386,Sports Movies,Portugal,1
+1387,Sports Movies,Romania,0
+1388,Sports Movies,Russia,1
+1389,Sports Movies,Saudi Arabia,0
+1390,Sports Movies,Serbia,0
+1391,Sports Movies,Singapore,0
+1392,Sports Movies,Slovenia,0
+1393,Sports Movies,Somalia,0
+1394,Sports Movies,South Africa,1
+1395,Sports Movies,South Korea,0
+1396,Sports Movies,Soviet Union,0
+1397,Sports Movies,Spain,3
+1398,Sports Movies,Sweden,0
+1399,Sports Movies,Switzerland,0
+1400,Sports Movies,Taiwan,1
+1401,Sports Movies,Thailand,2
+1402,Sports Movies,Turkey,1
+1403,Sports Movies,United Arab Emirates,1
+1404,Sports Movies,United Kingdom,18
+1405,Sports Movies,United States,84
+1406,Sports Movies,Uruguay,1
+1407,Sports Movies,Venezuela,0
+1408,Stand-Up Comedy,Argentina,7
+1409,Stand-Up Comedy,Australia,1
+1410,Stand-Up Comedy,Austria,0
+1411,Stand-Up Comedy,Belgium,0
+1412,Stand-Up Comedy,Brazil,6
+1413,Stand-Up Comedy,Bulgaria,0
+1414,Stand-Up Comedy,Cambodia,0
+1415,Stand-Up Comedy,Canada,2
+1416,Stand-Up Comedy,Chile,3
+1417,Stand-Up Comedy,China,0
+1418,Stand-Up Comedy,Colombia,3
+1419,Stand-Up Comedy,Croatia,0
+1420,Stand-Up Comedy,Cyprus,0
+1421,Stand-Up Comedy,Czech Republic,0
+1422,Stand-Up Comedy,Denmark,0
+1423,Stand-Up Comedy,Egypt,0
+1424,Stand-Up Comedy,Finland,0
+1425,Stand-Up Comedy,France,4
+1426,Stand-Up Comedy,Georgia,0
+1427,Stand-Up Comedy,Germany,2
+1428,Stand-Up Comedy,Ghana,0
+1429,Stand-Up Comedy,Hong Kong,0
+1430,Stand-Up Comedy,Iceland,0
+1431,Stand-Up Comedy,India,1
+1432,Stand-Up Comedy,Indonesia,0
+1433,Stand-Up Comedy,Iran,0
+1434,Stand-Up Comedy,Ireland,0
+1435,Stand-Up Comedy,Israel,0
+1436,Stand-Up Comedy,Italy,4
+1437,Stand-Up Comedy,Japan,0
+1438,Stand-Up Comedy,Lebanon,0
+1439,Stand-Up Comedy,Malaysia,0
+1440,Stand-Up Comedy,Mauritius,0
+1441,Stand-Up Comedy,Mexico,16
+1442,Stand-Up Comedy,Netherlands,1
+1443,Stand-Up Comedy,New Zealand,0
+1444,Stand-Up Comedy,Norway,0
+1445,Stand-Up Comedy,Pakistan,0
+1446,Stand-Up Comedy,Paraguay,0
+1447,Stand-Up Comedy,Peru,0
+1448,Stand-Up Comedy,Philippines,0
+1449,Stand-Up Comedy,Poland,0
+1450,Stand-Up Comedy,Portugal,0
+1451,Stand-Up Comedy,Romania,0
+1452,Stand-Up Comedy,Russia,0
+1453,Stand-Up Comedy,Saudi Arabia,0
+1454,Stand-Up Comedy,Serbia,0
+1455,Stand-Up Comedy,Singapore,1
+1456,Stand-Up Comedy,Slovenia,0
+1457,Stand-Up Comedy,Somalia,0
+1458,Stand-Up Comedy,South Africa,0
+1459,Stand-Up Comedy,South Korea,2
+1460,Stand-Up Comedy,Soviet Union,0
+1461,Stand-Up Comedy,Spain,0
+1462,Stand-Up Comedy,Sweden,0
+1463,Stand-Up Comedy,Switzerland,0
+1464,Stand-Up Comedy,Taiwan,0
+1465,Stand-Up Comedy,Thailand,0
+1466,Stand-Up Comedy,Turkey,0
+1467,Stand-Up Comedy,United Arab Emirates,0
+1468,Stand-Up Comedy,United Kingdom,17
+1469,Stand-Up Comedy,United States,186
+1470,Stand-Up Comedy,Uruguay,0
+1471,Stand-Up Comedy,Venezuela,0
+1472,TV Comedies,Argentina,1
+1473,TV Comedies,Australia,12
+1474,TV Comedies,Austria,1
+1475,TV Comedies,Belgium,0
+1476,TV Comedies,Brazil,6
+1477,TV Comedies,Bulgaria,0
+1478,TV Comedies,Cambodia,0
+1479,TV Comedies,Canada,28
+1480,TV Comedies,Chile,0
+1481,TV Comedies,China,9
+1482,TV Comedies,Colombia,0
+1483,TV Comedies,Croatia,0
+1484,TV Comedies,Cyprus,1
+1485,TV Comedies,Czech Republic,0
+1486,TV Comedies,Denmark,2
+1487,TV Comedies,Egypt,2
+1488,TV Comedies,Finland,1
+1489,TV Comedies,France,17
+1490,TV Comedies,Georgia,0
+1491,TV Comedies,Germany,3
+1492,TV Comedies,Ghana,0
+1493,TV Comedies,Hong Kong,1
+1494,TV Comedies,Iceland,0
+1495,TV Comedies,India,15
+1496,TV Comedies,Indonesia,0
+1497,TV Comedies,Iran,0
+1498,TV Comedies,Ireland,2
+1499,TV Comedies,Israel,1
+1500,TV Comedies,Italy,2
+1501,TV Comedies,Japan,9
+1502,TV Comedies,Lebanon,0
+1503,TV Comedies,Malaysia,2
+1504,TV Comedies,Mauritius,0
+1505,TV Comedies,Mexico,3
+1506,TV Comedies,Netherlands,1
+1507,TV Comedies,New Zealand,0
+1508,TV Comedies,Norway,5
+1509,TV Comedies,Pakistan,0
+1510,TV Comedies,Paraguay,0
+1511,TV Comedies,Peru,0
+1512,TV Comedies,Philippines,0
+1513,TV Comedies,Poland,0
+1514,TV Comedies,Portugal,0
+1515,TV Comedies,Romania,0
+1516,TV Comedies,Russia,2
+1517,TV Comedies,Saudi Arabia,0
+1518,TV Comedies,Serbia,0
+1519,TV Comedies,Singapore,2
+1520,TV Comedies,Slovenia,0
+1521,TV Comedies,Somalia,0
+1522,TV Comedies,South Africa,1
+1523,TV Comedies,South Korea,7
+1524,TV Comedies,Soviet Union,0
+1525,TV Comedies,Spain,5
+1526,TV Comedies,Sweden,2
+1527,TV Comedies,Switzerland,1
+1528,TV Comedies,Taiwan,38
+1529,TV Comedies,Thailand,3
+1530,TV Comedies,Turkey,2
+1531,TV Comedies,United Arab Emirates,0
+1532,TV Comedies,United Kingdom,38
+1533,TV Comedies,United States,199
+1534,TV Comedies,Uruguay,0
+1535,TV Comedies,Venezuela,0
+1536,TV Dramas,Argentina,2
+1537,TV Dramas,Australia,16
+1538,TV Dramas,Austria,0
+1539,TV Dramas,Belgium,9
+1540,TV Dramas,Brazil,8
+1541,TV Dramas,Bulgaria,0
+1542,TV Dramas,Cambodia,0
+1543,TV Dramas,Canada,27
+1544,TV Dramas,Chile,3
+1545,TV Dramas,China,18
+1546,TV Dramas,Colombia,6
+1547,TV Dramas,Croatia,1
+1548,TV Dramas,Cyprus,0
+1549,TV Dramas,Czech Republic,0
+1550,TV Dramas,Denmark,6
+1551,TV Dramas,Egypt,7
+1552,TV Dramas,Finland,2
+1553,TV Dramas,France,23
+1554,TV Dramas,Georgia,0
+1555,TV Dramas,Germany,11
+1556,TV Dramas,Ghana,0
+1557,TV Dramas,Hong Kong,3
+1558,TV Dramas,Iceland,1
+1559,TV Dramas,India,21
+1560,TV Dramas,Indonesia,1
+1561,TV Dramas,Iran,0
+1562,TV Dramas,Ireland,7
+1563,TV Dramas,Israel,5
+1564,TV Dramas,Italy,6
+1565,TV Dramas,Japan,20
+1566,TV Dramas,Lebanon,7
+1567,TV Dramas,Malaysia,1
+1568,TV Dramas,Mauritius,1
+1569,TV Dramas,Mexico,9
+1570,TV Dramas,Netherlands,4
+1571,TV Dramas,New Zealand,2
+1572,TV Dramas,Norway,6
+1573,TV Dramas,Pakistan,3
+1574,TV Dramas,Paraguay,0
+1575,TV Dramas,Peru,0
+1576,TV Dramas,Philippines,1
+1577,TV Dramas,Poland,4
+1578,TV Dramas,Portugal,0
+1579,TV Dramas,Romania,0
+1580,TV Dramas,Russia,6
+1581,TV Dramas,Saudi Arabia,1
+1582,TV Dramas,Serbia,0
+1583,TV Dramas,Singapore,7
+1584,TV Dramas,Slovenia,0
+1585,TV Dramas,Somalia,0
+1586,TV Dramas,South Africa,2
+1587,TV Dramas,South Korea,17
+1588,TV Dramas,Soviet Union,0
+1589,TV Dramas,Spain,9
+1590,TV Dramas,Sweden,5
+1591,TV Dramas,Switzerland,1
+1592,TV Dramas,Taiwan,26
+1593,TV Dramas,Thailand,10
+1594,TV Dramas,Turkey,21
+1595,TV Dramas,United Arab Emirates,1
+1596,TV Dramas,United Kingdom,27
+1597,TV Dramas,United States,196
+1598,TV Dramas,Uruguay,0
+1599,TV Dramas,Venezuela,0
+1600,TV Horror,Argentina,1
+1601,TV Horror,Australia,1
+1602,TV Horror,Austria,0
+1603,TV Horror,Belgium,0
+1604,TV Horror,Brazil,0
+1605,TV Horror,Bulgaria,0
+1606,TV Horror,Cambodia,0
+1607,TV Horror,Canada,7
+1608,TV Horror,Chile,0
+1609,TV Horror,China,0
+1610,TV Horror,Colombia,0
+1611,TV Horror,Croatia,0
+1612,TV Horror,Cyprus,0
+1613,TV Horror,Czech Republic,1
+1614,TV Horror,Denmark,0
+1615,TV Horror,Egypt,0
+1616,TV Horror,Finland,0
+1617,TV Horror,France,2
+1618,TV Horror,Georgia,0
+1619,TV Horror,Germany,0
+1620,TV Horror,Ghana,0
+1621,TV Horror,Hong Kong,0
+1622,TV Horror,Iceland,0
+1623,TV Horror,India,6
+1624,TV Horror,Indonesia,0
+1625,TV Horror,Iran,0
+1626,TV Horror,Ireland,1
+1627,TV Horror,Israel,0
+1628,TV Horror,Italy,0
+1629,TV Horror,Japan,1
+1630,TV Horror,Lebanon,0
+1631,TV Horror,Malaysia,0
+1632,TV Horror,Mauritius,0
+1633,TV Horror,Mexico,0
+1634,TV Horror,Netherlands,0
+1635,TV Horror,New Zealand,0
+1636,TV Horror,Norway,0
+1637,TV Horror,Pakistan,0
+1638,TV Horror,Paraguay,0
+1639,TV Horror,Peru,0
+1640,TV Horror,Philippines,0
+1641,TV Horror,Poland,0
+1642,TV Horror,Portugal,0
+1643,TV Horror,Romania,0
+1644,TV Horror,Russia,0
+1645,TV Horror,Saudi Arabia,0
+1646,TV Horror,Serbia,0
+1647,TV Horror,Singapore,0
+1648,TV Horror,Slovenia,0
+1649,TV Horror,Somalia,0
+1650,TV Horror,South Africa,0
+1651,TV Horror,South Korea,0
+1652,TV Horror,Soviet Union,0
+1653,TV Horror,Spain,0
+1654,TV Horror,Sweden,0
+1655,TV Horror,Switzerland,0
+1656,TV Horror,Taiwan,1
+1657,TV Horror,Thailand,1
+1658,TV Horror,Turkey,1
+1659,TV Horror,United Arab Emirates,0
+1660,TV Horror,United Kingdom,4
+1661,TV Horror,United States,30
+1662,TV Horror,Uruguay,0
+1663,TV Horror,Venezuela,0
+1664,Teen TV Shows,Argentina,1
+1665,Teen TV Shows,Australia,0
+1666,Teen TV Shows,Austria,0
+1667,Teen TV Shows,Belgium,0
+1668,Teen TV Shows,Brazil,0
+1669,Teen TV Shows,Bulgaria,0
+1670,Teen TV Shows,Cambodia,0
+1671,Teen TV Shows,Canada,1
+1672,Teen TV Shows,Chile,0
+1673,Teen TV Shows,China,3
+1674,Teen TV Shows,Colombia,0
+1675,Teen TV Shows,Croatia,0
+1676,Teen TV Shows,Cyprus,0
+1677,Teen TV Shows,Czech Republic,0
+1678,Teen TV Shows,Denmark,0
+1679,Teen TV Shows,Egypt,0
+1680,Teen TV Shows,Finland,0
+1681,Teen TV Shows,France,0
+1682,Teen TV Shows,Georgia,0
+1683,Teen TV Shows,Germany,0
+1684,Teen TV Shows,Ghana,0
+1685,Teen TV Shows,Hong Kong,0
+1686,Teen TV Shows,Iceland,0
+1687,Teen TV Shows,India,1
+1688,Teen TV Shows,Indonesia,0
+1689,Teen TV Shows,Iran,0
+1690,Teen TV Shows,Ireland,0
+1691,Teen TV Shows,Israel,0
+1692,Teen TV Shows,Italy,1
+1693,Teen TV Shows,Japan,11
+1694,Teen TV Shows,Lebanon,0
+1695,Teen TV Shows,Malaysia,0
+1696,Teen TV Shows,Mauritius,0
+1697,Teen TV Shows,Mexico,0
+1698,Teen TV Shows,Netherlands,0
+1699,Teen TV Shows,New Zealand,0
+1700,Teen TV Shows,Norway,0
+1701,Teen TV Shows,Pakistan,0
+1702,Teen TV Shows,Paraguay,0
+1703,Teen TV Shows,Peru,0
+1704,Teen TV Shows,Philippines,0
+1705,Teen TV Shows,Poland,0
+1706,Teen TV Shows,Portugal,0
+1707,Teen TV Shows,Romania,0
+1708,Teen TV Shows,Russia,0
+1709,Teen TV Shows,Saudi Arabia,0
+1710,Teen TV Shows,Serbia,0
+1711,Teen TV Shows,Singapore,0
+1712,Teen TV Shows,Slovenia,0
+1713,Teen TV Shows,Somalia,0
+1714,Teen TV Shows,South Africa,0
+1715,Teen TV Shows,South Korea,0
+1716,Teen TV Shows,Soviet Union,0
+1717,Teen TV Shows,Spain,1
+1718,Teen TV Shows,Sweden,0
+1719,Teen TV Shows,Switzerland,0
+1720,Teen TV Shows,Taiwan,1
+1721,Teen TV Shows,Thailand,2
+1722,Teen TV Shows,Turkey,0
+1723,Teen TV Shows,United Arab Emirates,0
+1724,Teen TV Shows,United Kingdom,0
+1725,Teen TV Shows,United States,20
+1726,Teen TV Shows,Uruguay,0
+1727,Teen TV Shows,Venezuela,0
+1728,Thrillers,Argentina,5
+1729,Thrillers,Australia,8
+1730,Thrillers,Austria,1
+1731,Thrillers,Belgium,7
+1732,Thrillers,Brazil,2
+1733,Thrillers,Bulgaria,3
+1734,Thrillers,Cambodia,0
+1735,Thrillers,Canada,31
+1736,Thrillers,Chile,1
+1737,Thrillers,China,4
+1738,Thrillers,Colombia,0
+1739,Thrillers,Croatia,0
+1740,Thrillers,Cyprus,0
+1741,Thrillers,Czech Republic,1
+1742,Thrillers,Denmark,5
+1743,Thrillers,Egypt,2
+1744,Thrillers,Finland,0
+1745,Thrillers,France,23
+1746,Thrillers,Georgia,0
+1747,Thrillers,Germany,16
+1748,Thrillers,Ghana,0
+1749,Thrillers,Hong Kong,2
+1750,Thrillers,Iceland,1
+1751,Thrillers,India,72
+1752,Thrillers,Indonesia,0
+1753,Thrillers,Iran,1
+1754,Thrillers,Ireland,0
+1755,Thrillers,Israel,2
+1756,Thrillers,Italy,6
+1757,Thrillers,Japan,3
+1758,Thrillers,Lebanon,0
+1759,Thrillers,Malaysia,0
+1760,Thrillers,Mauritius,0
+1761,Thrillers,Mexico,2
+1762,Thrillers,Netherlands,1
+1763,Thrillers,New Zealand,0
+1764,Thrillers,Norway,3
+1765,Thrillers,Pakistan,0
+1766,Thrillers,Paraguay,0
+1767,Thrillers,Peru,0
+1768,Thrillers,Philippines,2
+1769,Thrillers,Poland,3
+1770,Thrillers,Portugal,0
+1771,Thrillers,Romania,2
+1772,Thrillers,Russia,0
+1773,Thrillers,Saudi Arabia,0
+1774,Thrillers,Serbia,0
+1775,Thrillers,Singapore,3
+1776,Thrillers,Slovenia,0
+1777,Thrillers,Somalia,0
+1778,Thrillers,South Africa,1
+1779,Thrillers,South Korea,11
+1780,Thrillers,Soviet Union,0
+1781,Thrillers,Spain,28
+1782,Thrillers,Sweden,3
+1783,Thrillers,Switzerland,1
+1784,Thrillers,Taiwan,1
+1785,Thrillers,Thailand,2
+1786,Thrillers,Turkey,4
+1787,Thrillers,United Arab Emirates,4
+1788,Thrillers,United Kingdom,43
+1789,Thrillers,United States,202
+1790,Thrillers,Uruguay,0
+1791,Thrillers,Venezuela,0
+1792,British TV Shows,Argentina,0
+1793,British TV Shows,Australia,3
+1794,British TV Shows,Austria,0
+1795,British TV Shows,Belgium,0
+1796,British TV Shows,Brazil,0
+1797,British TV Shows,Bulgaria,0
+1798,British TV Shows,Cambodia,0
+1799,British TV Shows,Canada,3
+1800,British TV Shows,Chile,0
+1801,British TV Shows,China,1
+1802,British TV Shows,Colombia,0
+1803,British TV Shows,Croatia,0
+1804,British TV Shows,Cyprus,0
+1805,British TV Shows,Czech Republic,1
+1806,British TV Shows,Denmark,0
+1807,British TV Shows,Egypt,0
+1808,British TV Shows,Finland,0
+1809,British TV Shows,France,1
+1810,British TV Shows,Georgia,0
+1811,British TV Shows,Germany,5
+1812,British TV Shows,Ghana,0
+1813,British TV Shows,Hong Kong,0
+1814,British TV Shows,Iceland,0
+1815,British TV Shows,India,0
+1816,British TV Shows,Indonesia,0
+1817,British TV Shows,Iran,0
+1818,British TV Shows,Ireland,3
+1819,British TV Shows,Israel,0
+1820,British TV Shows,Italy,1
+1821,British TV Shows,Japan,0
+1822,British TV Shows,Lebanon,0
+1823,British TV Shows,Malaysia,0
+1824,British TV Shows,Mauritius,0
+1825,British TV Shows,Mexico,0
+1826,British TV Shows,Netherlands,1
+1827,British TV Shows,New Zealand,0
+1828,British TV Shows,Norway,0
+1829,British TV Shows,Pakistan,0
+1830,British TV Shows,Paraguay,0
+1831,British TV Shows,Peru,0
+1832,British TV Shows,Philippines,0
+1833,British TV Shows,Poland,0
+1834,British TV Shows,Portugal,0
+1835,British TV Shows,Romania,0
+1836,British TV Shows,Russia,0
+1837,British TV Shows,Saudi Arabia,0
+1838,British TV Shows,Serbia,0
+1839,British TV Shows,Singapore,0
+1840,British TV Shows,Slovenia,0
+1841,British TV Shows,Somalia,0
+1842,British TV Shows,South Africa,1
+1843,British TV Shows,South Korea,0
+1844,British TV Shows,Soviet Union,0
+1845,British TV Shows,Spain,3
+1846,British TV Shows,Sweden,0
+1847,British TV Shows,Switzerland,0
+1848,British TV Shows,Taiwan,0
+1849,British TV Shows,Thailand,0
+1850,British TV Shows,Turkey,0
+1851,British TV Shows,United Arab Emirates,0
+1852,British TV Shows,United Kingdom,194
+1853,British TV Shows,United States,22
+1854,British TV Shows,Uruguay,0
+1855,British TV Shows,Venezuela,0
+1856,Faith & Spirituality,Argentina,0
+1857,Faith & Spirituality,Australia,1
+1858,Faith & Spirituality,Austria,0
+1859,Faith & Spirituality,Belgium,0
+1860,Faith & Spirituality,Brazil,4
+1861,Faith & Spirituality,Bulgaria,0
+1862,Faith & Spirituality,Cambodia,0
+1863,Faith & Spirituality,Canada,2
+1864,Faith & Spirituality,Chile,0
+1865,Faith & Spirituality,China,1
+1866,Faith & Spirituality,Colombia,0
+1867,Faith & Spirituality,Croatia,0
+1868,Faith & Spirituality,Cyprus,0
+1869,Faith & Spirituality,Czech Republic,0
+1870,Faith & Spirituality,Denmark,0
+1871,Faith & Spirituality,Egypt,0
+1872,Faith & Spirituality,Finland,0
+1873,Faith & Spirituality,France,2
+1874,Faith & Spirituality,Georgia,0
+1875,Faith & Spirituality,Germany,1
+1876,Faith & Spirituality,Ghana,0
+1877,Faith & Spirituality,Hong Kong,0
+1878,Faith & Spirituality,Iceland,0
+1879,Faith & Spirituality,India,4
+1880,Faith & Spirituality,Indonesia,3
+1881,Faith & Spirituality,Iran,0
+1882,Faith & Spirituality,Ireland,1
+1883,Faith & Spirituality,Israel,1
+1884,Faith & Spirituality,Italy,1
+1885,Faith & Spirituality,Japan,0
+1886,Faith & Spirituality,Lebanon,0
+1887,Faith & Spirituality,Malaysia,0
+1888,Faith & Spirituality,Mauritius,0
+1889,Faith & Spirituality,Mexico,0
+1890,Faith & Spirituality,Netherlands,0
+1891,Faith & Spirituality,New Zealand,0
+1892,Faith & Spirituality,Norway,0
+1893,Faith & Spirituality,Pakistan,0
+1894,Faith & Spirituality,Paraguay,0
+1895,Faith & Spirituality,Peru,0
+1896,Faith & Spirituality,Philippines,0
+1897,Faith & Spirituality,Poland,0
+1898,Faith & Spirituality,Portugal,0
+1899,Faith & Spirituality,Romania,0
+1900,Faith & Spirituality,Russia,0
+1901,Faith & Spirituality,Saudi Arabia,0
+1902,Faith & Spirituality,Serbia,0
+1903,Faith & Spirituality,Singapore,0
+1904,Faith & Spirituality,Slovenia,0
+1905,Faith & Spirituality,Somalia,0
+1906,Faith & Spirituality,South Africa,1
+1907,Faith & Spirituality,South Korea,0
+1908,Faith & Spirituality,Soviet Union,0
+1909,Faith & Spirituality,Spain,2
+1910,Faith & Spirituality,Sweden,0
+1911,Faith & Spirituality,Switzerland,1
+1912,Faith & Spirituality,Taiwan,0
+1913,Faith & Spirituality,Thailand,3
+1914,Faith & Spirituality,Turkey,0
+1915,Faith & Spirituality,United Arab Emirates,0
+1916,Faith & Spirituality,United Kingdom,3
+1917,Faith & Spirituality,United States,28
+1918,Faith & Spirituality,Uruguay,0
+1919,Faith & Spirituality,Venezuela,0
+1920,LGBTQ Movies,Argentina,0
+1921,LGBTQ Movies,Australia,2
+1922,LGBTQ Movies,Austria,0
+1923,LGBTQ Movies,Belgium,3
+1924,LGBTQ Movies,Brazil,2
+1925,LGBTQ Movies,Bulgaria,0
+1926,LGBTQ Movies,Cambodia,0
+1927,LGBTQ Movies,Canada,2
+1928,LGBTQ Movies,Chile,0
+1929,LGBTQ Movies,China,0
+1930,LGBTQ Movies,Colombia,0
+1931,LGBTQ Movies,Croatia,0
+1932,LGBTQ Movies,Cyprus,0
+1933,LGBTQ Movies,Czech Republic,0
+1934,LGBTQ Movies,Denmark,1
+1935,LGBTQ Movies,Egypt,0
+1936,LGBTQ Movies,Finland,0
+1937,LGBTQ Movies,France,1
+1938,LGBTQ Movies,Georgia,0
+1939,LGBTQ Movies,Germany,2
+1940,LGBTQ Movies,Ghana,0
+1941,LGBTQ Movies,Hong Kong,0
+1942,LGBTQ Movies,Iceland,0
+1943,LGBTQ Movies,India,2
+1944,LGBTQ Movies,Indonesia,0
+1945,LGBTQ Movies,Iran,0
+1946,LGBTQ Movies,Ireland,0
+1947,LGBTQ Movies,Israel,0
+1948,LGBTQ Movies,Italy,1
+1949,LGBTQ Movies,Japan,1
+1950,LGBTQ Movies,Lebanon,0
+1951,LGBTQ Movies,Malaysia,0
+1952,LGBTQ Movies,Mauritius,0
+1953,LGBTQ Movies,Mexico,1
+1954,LGBTQ Movies,Netherlands,2
+1955,LGBTQ Movies,New Zealand,0
+1956,LGBTQ Movies,Norway,0
+1957,LGBTQ Movies,Pakistan,0
+1958,LGBTQ Movies,Paraguay,0
+1959,LGBTQ Movies,Peru,0
+1960,LGBTQ Movies,Philippines,0
+1961,LGBTQ Movies,Poland,0
+1962,LGBTQ Movies,Portugal,0
+1963,LGBTQ Movies,Romania,0
+1964,LGBTQ Movies,Russia,0
+1965,LGBTQ Movies,Saudi Arabia,0
+1966,LGBTQ Movies,Serbia,0
+1967,LGBTQ Movies,Singapore,0
+1968,LGBTQ Movies,Slovenia,0
+1969,LGBTQ Movies,Somalia,0
+1970,LGBTQ Movies,South Africa,0
+1971,LGBTQ Movies,South Korea,0
+1972,LGBTQ Movies,Soviet Union,0
+1973,LGBTQ Movies,Spain,3
+1974,LGBTQ Movies,Sweden,0
+1975,LGBTQ Movies,Switzerland,0
+1976,LGBTQ Movies,Taiwan,0
+1977,LGBTQ Movies,Thailand,3
+1978,LGBTQ Movies,Turkey,0
+1979,LGBTQ Movies,United Arab Emirates,0
+1980,LGBTQ Movies,United Kingdom,4
+1981,LGBTQ Movies,United States,39
+1982,LGBTQ Movies,Uruguay,0
+1983,LGBTQ Movies,Venezuela,0
+1984,Science & Nature TV,Argentina,0
+1985,Science & Nature TV,Australia,6
+1986,Science & Nature TV,Austria,0
+1987,Science & Nature TV,Belgium,0
+1988,Science & Nature TV,Brazil,1
+1989,Science & Nature TV,Bulgaria,0
+1990,Science & Nature TV,Cambodia,0
+1991,Science & Nature TV,Canada,4
+1992,Science & Nature TV,Chile,0
+1993,Science & Nature TV,China,0
+1994,Science & Nature TV,Colombia,0
+1995,Science & Nature TV,Croatia,0
+1996,Science & Nature TV,Cyprus,0
+1997,Science & Nature TV,Czech Republic,1
+1998,Science & Nature TV,Denmark,0
+1999,Science & Nature TV,Egypt,0
+2000,Science & Nature TV,Finland,0
+2001,Science & Nature TV,France,1
+2002,Science & Nature TV,Georgia,0
+2003,Science & Nature TV,Germany,2
+2004,Science & Nature TV,Ghana,0
+2005,Science & Nature TV,Hong Kong,0
+2006,Science & Nature TV,Iceland,0
+2007,Science & Nature TV,India,0
+2008,Science & Nature TV,Indonesia,0
+2009,Science & Nature TV,Iran,0
+2010,Science & Nature TV,Ireland,0
+2011,Science & Nature TV,Israel,0
+2012,Science & Nature TV,Italy,0
+2013,Science & Nature TV,Japan,0
+2014,Science & Nature TV,Lebanon,0
+2015,Science & Nature TV,Malaysia,0
+2016,Science & Nature TV,Mauritius,0
+2017,Science & Nature TV,Mexico,0
+2018,Science & Nature TV,Netherlands,0
+2019,Science & Nature TV,New Zealand,0
+2020,Science & Nature TV,Norway,1
+2021,Science & Nature TV,Pakistan,0
+2022,Science & Nature TV,Paraguay,0
+2023,Science & Nature TV,Peru,0
+2024,Science & Nature TV,Philippines,0
+2025,Science & Nature TV,Poland,0
+2026,Science & Nature TV,Portugal,0
+2027,Science & Nature TV,Romania,0
+2028,Science & Nature TV,Russia,1
+2029,Science & Nature TV,Saudi Arabia,0
+2030,Science & Nature TV,Serbia,0
+2031,Science & Nature TV,Singapore,0
+2032,Science & Nature TV,Slovenia,0
+2033,Science & Nature TV,Somalia,0
+2034,Science & Nature TV,South Africa,0
+2035,Science & Nature TV,South Korea,0
+2036,Science & Nature TV,Soviet Union,0
+2037,Science & Nature TV,Spain,1
+2038,Science & Nature TV,Sweden,0
+2039,Science & Nature TV,Switzerland,0
+2040,Science & Nature TV,Taiwan,0
+2041,Science & Nature TV,Thailand,0
+2042,Science & Nature TV,Turkey,0
+2043,Science & Nature TV,United Arab Emirates,0
+2044,Science & Nature TV,United Kingdom,25
+2045,Science & Nature TV,United States,31
+2046,Science & Nature TV,Uruguay,0
+2047,Science & Nature TV,Venezuela,0
+2048,TV Action & Adventure,Argentina,0
+2049,TV Action & Adventure,Australia,1
+2050,TV Action & Adventure,Austria,0
+2051,TV Action & Adventure,Belgium,1
+2052,TV Action & Adventure,Brazil,0
+2053,TV Action & Adventure,Bulgaria,0
+2054,TV Action & Adventure,Cambodia,0
+2055,TV Action & Adventure,Canada,8
+2056,TV Action & Adventure,Chile,0
+2057,TV Action & Adventure,China,6
+2058,TV Action & Adventure,Colombia,2
+2059,TV Action & Adventure,Croatia,0
+2060,TV Action & Adventure,Cyprus,0
+2061,TV Action & Adventure,Czech Republic,0
+2062,TV Action & Adventure,Denmark,0
+2063,TV Action & Adventure,Egypt,0
+2064,TV Action & Adventure,Finland,0
+2065,TV Action & Adventure,France,3
+2066,TV Action & Adventure,Georgia,0
+2067,TV Action & Adventure,Germany,0
+2068,TV Action & Adventure,Ghana,0
+2069,TV Action & Adventure,Hong Kong,0
+2070,TV Action & Adventure,Iceland,0
+2071,TV Action & Adventure,India,4
+2072,TV Action & Adventure,Indonesia,0
+2073,TV Action & Adventure,Iran,0
+2074,TV Action & Adventure,Ireland,1
+2075,TV Action & Adventure,Israel,3
+2076,TV Action & Adventure,Italy,0
+2077,TV Action & Adventure,Japan,4
+2078,TV Action & Adventure,Lebanon,0
+2079,TV Action & Adventure,Malaysia,0
+2080,TV Action & Adventure,Mauritius,0
+2081,TV Action & Adventure,Mexico,6
+2082,TV Action & Adventure,Netherlands,0
+2083,TV Action & Adventure,New Zealand,2
+2084,TV Action & Adventure,Norway,0
+2085,TV Action & Adventure,Pakistan,0
+2086,TV Action & Adventure,Paraguay,0
+2087,TV Action & Adventure,Peru,0
+2088,TV Action & Adventure,Philippines,0
+2089,TV Action & Adventure,Poland,1
+2090,TV Action & Adventure,Portugal,0
+2091,TV Action & Adventure,Romania,0
+2092,TV Action & Adventure,Russia,1
+2093,TV Action & Adventure,Saudi Arabia,0
+2094,TV Action & Adventure,Serbia,0
+2095,TV Action & Adventure,Singapore,0
+2096,TV Action & Adventure,Slovenia,0
+2097,TV Action & Adventure,Somalia,0
+2098,TV Action & Adventure,South Africa,0
+2099,TV Action & Adventure,South Korea,9
+2100,TV Action & Adventure,Soviet Union,0
+2101,TV Action & Adventure,Spain,3
+2102,TV Action & Adventure,Sweden,0
+2103,TV Action & Adventure,Switzerland,0
+2104,TV Action & Adventure,Taiwan,3
+2105,TV Action & Adventure,Thailand,2
+2106,TV Action & Adventure,Turkey,5
+2107,TV Action & Adventure,United Arab Emirates,0
+2108,TV Action & Adventure,United Kingdom,6
+2109,TV Action & Adventure,United States,77
+2110,TV Action & Adventure,Uruguay,0
+2111,TV Action & Adventure,Venezuela,0
+2112,TV Mysteries,Argentina,0
+2113,TV Mysteries,Australia,1
+2114,TV Mysteries,Austria,0
+2115,TV Mysteries,Belgium,1
+2116,TV Mysteries,Brazil,1
+2117,TV Mysteries,Bulgaria,0
+2118,TV Mysteries,Cambodia,0
+2119,TV Mysteries,Canada,6
+2120,TV Mysteries,Chile,0
+2121,TV Mysteries,China,1
+2122,TV Mysteries,Colombia,0
+2123,TV Mysteries,Croatia,0
+2124,TV Mysteries,Cyprus,0
+2125,TV Mysteries,Czech Republic,0
+2126,TV Mysteries,Denmark,1
+2127,TV Mysteries,Egypt,1
+2128,TV Mysteries,Finland,0
+2129,TV Mysteries,France,2
+2130,TV Mysteries,Georgia,0
+2131,TV Mysteries,Germany,0
+2132,TV Mysteries,Ghana,0
+2133,TV Mysteries,Hong Kong,0
+2134,TV Mysteries,Iceland,0
+2135,TV Mysteries,India,3
+2136,TV Mysteries,Indonesia,0
+2137,TV Mysteries,Iran,0
+2138,TV Mysteries,Ireland,1
+2139,TV Mysteries,Israel,0
+2140,TV Mysteries,Italy,0
+2141,TV Mysteries,Japan,3
+2142,TV Mysteries,Lebanon,1
+2143,TV Mysteries,Malaysia,0
+2144,TV Mysteries,Mauritius,0
+2145,TV Mysteries,Mexico,0
+2146,TV Mysteries,Netherlands,0
+2147,TV Mysteries,New Zealand,0
+2148,TV Mysteries,Norway,0
+2149,TV Mysteries,Pakistan,0
+2150,TV Mysteries,Paraguay,0
+2151,TV Mysteries,Peru,0
+2152,TV Mysteries,Philippines,0
+2153,TV Mysteries,Poland,1
+2154,TV Mysteries,Portugal,0
+2155,TV Mysteries,Romania,0
+2156,TV Mysteries,Russia,0
+2157,TV Mysteries,Saudi Arabia,0
+2158,TV Mysteries,Serbia,0
+2159,TV Mysteries,Singapore,0
+2160,TV Mysteries,Slovenia,0
+2161,TV Mysteries,Somalia,0
+2162,TV Mysteries,South Africa,0
+2163,TV Mysteries,South Korea,0
+2164,TV Mysteries,Soviet Union,0
+2165,TV Mysteries,Spain,0
+2166,TV Mysteries,Sweden,0
+2167,TV Mysteries,Switzerland,0
+2168,TV Mysteries,Taiwan,1
+2169,TV Mysteries,Thailand,3
+2170,TV Mysteries,Turkey,2
+2171,TV Mysteries,United Arab Emirates,0
+2172,TV Mysteries,United Kingdom,3
+2173,TV Mysteries,United States,46
+2174,TV Mysteries,Uruguay,0
+2175,TV Mysteries,Venezuela,0
+2176,TV Sci-Fi & Fantasy,Argentina,0
+2177,TV Sci-Fi & Fantasy,Australia,2
+2178,TV Sci-Fi & Fantasy,Austria,0
+2179,TV Sci-Fi & Fantasy,Belgium,1
+2180,TV Sci-Fi & Fantasy,Brazil,1
+2181,TV Sci-Fi & Fantasy,Bulgaria,0
+2182,TV Sci-Fi & Fantasy,Cambodia,0
+2183,TV Sci-Fi & Fantasy,Canada,5
+2184,TV Sci-Fi & Fantasy,Chile,0
+2185,TV Sci-Fi & Fantasy,China,3
+2186,TV Sci-Fi & Fantasy,Colombia,0
+2187,TV Sci-Fi & Fantasy,Croatia,0
+2188,TV Sci-Fi & Fantasy,Cyprus,0
+2189,TV Sci-Fi & Fantasy,Czech Republic,0
+2190,TV Sci-Fi & Fantasy,Denmark,0
+2191,TV Sci-Fi & Fantasy,Egypt,1
+2192,TV Sci-Fi & Fantasy,Finland,0
+2193,TV Sci-Fi & Fantasy,France,1
+2194,TV Sci-Fi & Fantasy,Georgia,0
+2195,TV Sci-Fi & Fantasy,Germany,0
+2196,TV Sci-Fi & Fantasy,Ghana,0
+2197,TV Sci-Fi & Fantasy,Hong Kong,0
+2198,TV Sci-Fi & Fantasy,Iceland,0
+2199,TV Sci-Fi & Fantasy,India,3
+2200,TV Sci-Fi & Fantasy,Indonesia,0
+2201,TV Sci-Fi & Fantasy,Iran,0
+2202,TV Sci-Fi & Fantasy,Ireland,0
+2203,TV Sci-Fi & Fantasy,Israel,0
+2204,TV Sci-Fi & Fantasy,Italy,0
+2205,TV Sci-Fi & Fantasy,Japan,0
+2206,TV Sci-Fi & Fantasy,Lebanon,0
+2207,TV Sci-Fi & Fantasy,Malaysia,0
+2208,TV Sci-Fi & Fantasy,Mauritius,0
+2209,TV Sci-Fi & Fantasy,Mexico,1
+2210,TV Sci-Fi & Fantasy,Netherlands,0
+2211,TV Sci-Fi & Fantasy,New Zealand,3
+2212,TV Sci-Fi & Fantasy,Norway,0
+2213,TV Sci-Fi & Fantasy,Pakistan,0
+2214,TV Sci-Fi & Fantasy,Paraguay,0
+2215,TV Sci-Fi & Fantasy,Peru,0
+2216,TV Sci-Fi & Fantasy,Philippines,0
+2217,TV Sci-Fi & Fantasy,Poland,0
+2218,TV Sci-Fi & Fantasy,Portugal,0
+2219,TV Sci-Fi & Fantasy,Romania,0
+2220,TV Sci-Fi & Fantasy,Russia,0
+2221,TV Sci-Fi & Fantasy,Saudi Arabia,0
+2222,TV Sci-Fi & Fantasy,Serbia,0
+2223,TV Sci-Fi & Fantasy,Singapore,0
+2224,TV Sci-Fi & Fantasy,Slovenia,0
+2225,TV Sci-Fi & Fantasy,Somalia,0
+2226,TV Sci-Fi & Fantasy,South Africa,0
+2227,TV Sci-Fi & Fantasy,South Korea,0
+2228,TV Sci-Fi & Fantasy,Soviet Union,0
+2229,TV Sci-Fi & Fantasy,Spain,0
+2230,TV Sci-Fi & Fantasy,Sweden,0
+2231,TV Sci-Fi & Fantasy,Switzerland,0
+2232,TV Sci-Fi & Fantasy,Taiwan,1
+2233,TV Sci-Fi & Fantasy,Thailand,0
+2234,TV Sci-Fi & Fantasy,Turkey,0
+2235,TV Sci-Fi & Fantasy,United Arab Emirates,0
+2236,TV Sci-Fi & Fantasy,United Kingdom,3
+2237,TV Sci-Fi & Fantasy,United States,52
+2238,TV Sci-Fi & Fantasy,Uruguay,0
+2239,TV Sci-Fi & Fantasy,Venezuela,0
+2240,TV Thrillers,Argentina,0
+2241,TV Thrillers,Australia,2
+2242,TV Thrillers,Austria,0
+2243,TV Thrillers,Belgium,0
+2244,TV Thrillers,Brazil,0
+2245,TV Thrillers,Bulgaria,0
+2246,TV Thrillers,Cambodia,0
+2247,TV Thrillers,Canada,5
+2248,TV Thrillers,Chile,0
+2249,TV Thrillers,China,0
+2250,TV Thrillers,Colombia,0
+2251,TV Thrillers,Croatia,0
+2252,TV Thrillers,Cyprus,0
+2253,TV Thrillers,Czech Republic,1
+2254,TV Thrillers,Denmark,0
+2255,TV Thrillers,Egypt,0
+2256,TV Thrillers,Finland,0
+2257,TV Thrillers,France,3
+2258,TV Thrillers,Georgia,0
+2259,TV Thrillers,Germany,0
+2260,TV Thrillers,Ghana,0
+2261,TV Thrillers,Hong Kong,0
+2262,TV Thrillers,Iceland,0
+2263,TV Thrillers,India,3
+2264,TV Thrillers,Indonesia,0
+2265,TV Thrillers,Iran,0
+2266,TV Thrillers,Ireland,0
+2267,TV Thrillers,Israel,0
+2268,TV Thrillers,Italy,0
+2269,TV Thrillers,Japan,4
+2270,TV Thrillers,Lebanon,0
+2271,TV Thrillers,Malaysia,0
+2272,TV Thrillers,Mauritius,0
+2273,TV Thrillers,Mexico,0
+2274,TV Thrillers,Netherlands,0
+2275,TV Thrillers,New Zealand,1
+2276,TV Thrillers,Norway,2
+2277,TV Thrillers,Pakistan,0
+2278,TV Thrillers,Paraguay,0
+2279,TV Thrillers,Peru,0
+2280,TV Thrillers,Philippines,0
+2281,TV Thrillers,Poland,0
+2282,TV Thrillers,Portugal,0
+2283,TV Thrillers,Romania,0
+2284,TV Thrillers,Russia,0
+2285,TV Thrillers,Saudi Arabia,0
+2286,TV Thrillers,Serbia,0
+2287,TV Thrillers,Singapore,0
+2288,TV Thrillers,Slovenia,0
+2289,TV Thrillers,Somalia,0
+2290,TV Thrillers,South Africa,0
+2291,TV Thrillers,South Korea,1
+2292,TV Thrillers,Soviet Union,0
+2293,TV Thrillers,Spain,0
+2294,TV Thrillers,Sweden,1
+2295,TV Thrillers,Switzerland,0
+2296,TV Thrillers,Taiwan,1
+2297,TV Thrillers,Thailand,1
+2298,TV Thrillers,Turkey,2
+2299,TV Thrillers,United Arab Emirates,0
+2300,TV Thrillers,United Kingdom,3
+2301,TV Thrillers,United States,23
+2302,TV Thrillers,Uruguay,0
+2303,TV Thrillers,Venezuela,0
+2304,Stand-Up Comedy & Talk Shows,Argentina,0
+2305,Stand-Up Comedy & Talk Shows,Australia,0
+2306,Stand-Up Comedy & Talk Shows,Austria,0
+2307,Stand-Up Comedy & Talk Shows,Belgium,0
+2308,Stand-Up Comedy & Talk Shows,Brazil,1
+2309,Stand-Up Comedy & Talk Shows,Bulgaria,0
+2310,Stand-Up Comedy & Talk Shows,Cambodia,0
+2311,Stand-Up Comedy & Talk Shows,Canada,0
+2312,Stand-Up Comedy & Talk Shows,Chile,0
+2313,Stand-Up Comedy & Talk Shows,China,0
+2314,Stand-Up Comedy & Talk Shows,Colombia,0
+2315,Stand-Up Comedy & Talk Shows,Croatia,0
+2316,Stand-Up Comedy & Talk Shows,Cyprus,0
+2317,Stand-Up Comedy & Talk Shows,Czech Republic,0
+2318,Stand-Up Comedy & Talk Shows,Denmark,0
+2319,Stand-Up Comedy & Talk Shows,Egypt,0
+2320,Stand-Up Comedy & Talk Shows,Finland,0
+2321,Stand-Up Comedy & Talk Shows,France,0
+2322,Stand-Up Comedy & Talk Shows,Georgia,0
+2323,Stand-Up Comedy & Talk Shows,Germany,0
+2324,Stand-Up Comedy & Talk Shows,Ghana,0
+2325,Stand-Up Comedy & Talk Shows,Hong Kong,0
+2326,Stand-Up Comedy & Talk Shows,Iceland,0
+2327,Stand-Up Comedy & Talk Shows,India,1
+2328,Stand-Up Comedy & Talk Shows,Indonesia,0
+2329,Stand-Up Comedy & Talk Shows,Iran,0
+2330,Stand-Up Comedy & Talk Shows,Ireland,0
+2331,Stand-Up Comedy & Talk Shows,Israel,0
+2332,Stand-Up Comedy & Talk Shows,Italy,0
+2333,Stand-Up Comedy & Talk Shows,Japan,1
+2334,Stand-Up Comedy & Talk Shows,Lebanon,0
+2335,Stand-Up Comedy & Talk Shows,Malaysia,0
+2336,Stand-Up Comedy & Talk Shows,Mauritius,0
+2337,Stand-Up Comedy & Talk Shows,Mexico,1
+2338,Stand-Up Comedy & Talk Shows,Netherlands,0
+2339,Stand-Up Comedy & Talk Shows,New Zealand,0
+2340,Stand-Up Comedy & Talk Shows,Norway,0
+2341,Stand-Up Comedy & Talk Shows,Pakistan,0
+2342,Stand-Up Comedy & Talk Shows,Paraguay,0
+2343,Stand-Up Comedy & Talk Shows,Peru,0
+2344,Stand-Up Comedy & Talk Shows,Philippines,0
+2345,Stand-Up Comedy & Talk Shows,Poland,0
+2346,Stand-Up Comedy & Talk Shows,Portugal,0
+2347,Stand-Up Comedy & Talk Shows,Romania,0
+2348,Stand-Up Comedy & Talk Shows,Russia,0
+2349,Stand-Up Comedy & Talk Shows,Saudi Arabia,0
+2350,Stand-Up Comedy & Talk Shows,Serbia,0
+2351,Stand-Up Comedy & Talk Shows,Singapore,0
+2352,Stand-Up Comedy & Talk Shows,Slovenia,0
+2353,Stand-Up Comedy & Talk Shows,Somalia,0
+2354,Stand-Up Comedy & Talk Shows,South Africa,0
+2355,Stand-Up Comedy & Talk Shows,South Korea,4
+2356,Stand-Up Comedy & Talk Shows,Soviet Union,0
+2357,Stand-Up Comedy & Talk Shows,Spain,0
+2358,Stand-Up Comedy & Talk Shows,Sweden,0
+2359,Stand-Up Comedy & Talk Shows,Switzerland,0
+2360,Stand-Up Comedy & Talk Shows,Taiwan,0
+2361,Stand-Up Comedy & Talk Shows,Thailand,0
+2362,Stand-Up Comedy & Talk Shows,Turkey,0
+2363,Stand-Up Comedy & Talk Shows,United Arab Emirates,0
+2364,Stand-Up Comedy & Talk Shows,United Kingdom,1
+2365,Stand-Up Comedy & Talk Shows,United States,27
+2366,Stand-Up Comedy & Talk Shows,Uruguay,0
+2367,Stand-Up Comedy & Talk Shows,Venezuela,0
+2368,Anime Series,Argentina,0
+2369,Anime Series,Australia,0
+2370,Anime Series,Austria,0
+2371,Anime Series,Belgium,0
+2372,Anime Series,Brazil,0
+2373,Anime Series,Bulgaria,0
+2374,Anime Series,Cambodia,0
+2375,Anime Series,Canada,2
+2376,Anime Series,Chile,0
+2377,Anime Series,China,0
+2378,Anime Series,Colombia,0
+2379,Anime Series,Croatia,0
+2380,Anime Series,Cyprus,0
+2381,Anime Series,Czech Republic,0
+2382,Anime Series,Denmark,0
+2383,Anime Series,Egypt,0
+2384,Anime Series,Finland,0
+2385,Anime Series,France,0
+2386,Anime Series,Georgia,0
+2387,Anime Series,Germany,0
+2388,Anime Series,Ghana,0
+2389,Anime Series,Hong Kong,0
+2390,Anime Series,Iceland,0
+2391,Anime Series,India,0
+2392,Anime Series,Indonesia,0
+2393,Anime Series,Iran,0
+2394,Anime Series,Ireland,0
+2395,Anime Series,Israel,0
+2396,Anime Series,Italy,0
+2397,Anime Series,Japan,107
+2398,Anime Series,Lebanon,0
+2399,Anime Series,Malaysia,0
+2400,Anime Series,Mauritius,0
+2401,Anime Series,Mexico,0
+2402,Anime Series,Netherlands,0
+2403,Anime Series,New Zealand,0
+2404,Anime Series,Norway,0
+2405,Anime Series,Pakistan,0
+2406,Anime Series,Paraguay,0
+2407,Anime Series,Peru,0
+2408,Anime Series,Philippines,0
+2409,Anime Series,Poland,0
+2410,Anime Series,Portugal,0
+2411,Anime Series,Romania,0
+2412,Anime Series,Russia,0
+2413,Anime Series,Saudi Arabia,0
+2414,Anime Series,Serbia,0
+2415,Anime Series,Singapore,0
+2416,Anime Series,Slovenia,0
+2417,Anime Series,Somalia,0
+2418,Anime Series,South Africa,0
+2419,Anime Series,South Korea,1
+2420,Anime Series,Soviet Union,0
+2421,Anime Series,Spain,0
+2422,Anime Series,Sweden,0
+2423,Anime Series,Switzerland,0
+2424,Anime Series,Taiwan,0
+2425,Anime Series,Thailand,0
+2426,Anime Series,Turkey,0
+2427,Anime Series,United Arab Emirates,0
+2428,Anime Series,United Kingdom,0
+2429,Anime Series,United States,9
+2430,Anime Series,Uruguay,0
+2431,Anime Series,Venezuela,0
+2432,Classic & Cult TV,Argentina,0
+2433,Classic & Cult TV,Australia,0
+2434,Classic & Cult TV,Austria,0
+2435,Classic & Cult TV,Belgium,0
+2436,Classic & Cult TV,Brazil,0
+2437,Classic & Cult TV,Bulgaria,0
+2438,Classic & Cult TV,Cambodia,0
+2439,Classic & Cult TV,Canada,2
+2440,Classic & Cult TV,Chile,0
+2441,Classic & Cult TV,China,0
+2442,Classic & Cult TV,Colombia,0
+2443,Classic & Cult TV,Croatia,0
+2444,Classic & Cult TV,Cyprus,0
+2445,Classic & Cult TV,Czech Republic,0
+2446,Classic & Cult TV,Denmark,0
+2447,Classic & Cult TV,Egypt,0
+2448,Classic & Cult TV,Finland,0
+2449,Classic & Cult TV,France,0
+2450,Classic & Cult TV,Georgia,0
+2451,Classic & Cult TV,Germany,0
+2452,Classic & Cult TV,Ghana,0
+2453,Classic & Cult TV,Hong Kong,0
+2454,Classic & Cult TV,Iceland,0
+2455,Classic & Cult TV,India,0
+2456,Classic & Cult TV,Indonesia,0
+2457,Classic & Cult TV,Iran,0
+2458,Classic & Cult TV,Ireland,0
+2459,Classic & Cult TV,Israel,0
+2460,Classic & Cult TV,Italy,0
+2461,Classic & Cult TV,Japan,0
+2462,Classic & Cult TV,Lebanon,0
+2463,Classic & Cult TV,Malaysia,0
+2464,Classic & Cult TV,Mauritius,0
+2465,Classic & Cult TV,Mexico,2
+2466,Classic & Cult TV,Netherlands,0
+2467,Classic & Cult TV,New Zealand,0
+2468,Classic & Cult TV,Norway,0
+2469,Classic & Cult TV,Pakistan,0
+2470,Classic & Cult TV,Paraguay,0
+2471,Classic & Cult TV,Peru,0
+2472,Classic & Cult TV,Philippines,0
+2473,Classic & Cult TV,Poland,0
+2474,Classic & Cult TV,Portugal,0
+2475,Classic & Cult TV,Romania,0
+2476,Classic & Cult TV,Russia,0
+2477,Classic & Cult TV,Saudi Arabia,0
+2478,Classic & Cult TV,Serbia,0
+2479,Classic & Cult TV,Singapore,0
+2480,Classic & Cult TV,Slovenia,0
+2481,Classic & Cult TV,Somalia,0
+2482,Classic & Cult TV,South Africa,0
+2483,Classic & Cult TV,South Korea,0
+2484,Classic & Cult TV,Soviet Union,0
+2485,Classic & Cult TV,Spain,0
+2486,Classic & Cult TV,Sweden,0
+2487,Classic & Cult TV,Switzerland,0
+2488,Classic & Cult TV,Taiwan,0
+2489,Classic & Cult TV,Thailand,0
+2490,Classic & Cult TV,Turkey,0
+2491,Classic & Cult TV,United Arab Emirates,0
+2492,Classic & Cult TV,United Kingdom,6
+2493,Classic & Cult TV,United States,16
+2494,Classic & Cult TV,Uruguay,0
+2495,Classic & Cult TV,Venezuela,0
+2496,Korean TV Shows,Argentina,0
+2497,Korean TV Shows,Australia,0
+2498,Korean TV Shows,Austria,0
+2499,Korean TV Shows,Belgium,0
+2500,Korean TV Shows,Brazil,0
+2501,Korean TV Shows,Bulgaria,0
+2502,Korean TV Shows,Cambodia,0
+2503,Korean TV Shows,Canada,1
+2504,Korean TV Shows,Chile,0
+2505,Korean TV Shows,China,1
+2506,Korean TV Shows,Colombia,0
+2507,Korean TV Shows,Croatia,0
+2508,Korean TV Shows,Cyprus,0
+2509,Korean TV Shows,Czech Republic,0
+2510,Korean TV Shows,Denmark,0
+2511,Korean TV Shows,Egypt,0
+2512,Korean TV Shows,Finland,0
+2513,Korean TV Shows,France,0
+2514,Korean TV Shows,Georgia,0
+2515,Korean TV Shows,Germany,0
+2516,Korean TV Shows,Ghana,0
+2517,Korean TV Shows,Hong Kong,1
+2518,Korean TV Shows,Iceland,0
+2519,Korean TV Shows,India,0
+2520,Korean TV Shows,Indonesia,0
+2521,Korean TV Shows,Iran,0
+2522,Korean TV Shows,Ireland,0
+2523,Korean TV Shows,Israel,0
+2524,Korean TV Shows,Italy,0
+2525,Korean TV Shows,Japan,0
+2526,Korean TV Shows,Lebanon,0
+2527,Korean TV Shows,Malaysia,1
+2528,Korean TV Shows,Mauritius,0
+2529,Korean TV Shows,Mexico,0
+2530,Korean TV Shows,Netherlands,0
+2531,Korean TV Shows,New Zealand,0
+2532,Korean TV Shows,Norway,0
+2533,Korean TV Shows,Pakistan,0
+2534,Korean TV Shows,Paraguay,0
+2535,Korean TV Shows,Peru,0
+2536,Korean TV Shows,Philippines,0
+2537,Korean TV Shows,Poland,0
+2538,Korean TV Shows,Portugal,0
+2539,Korean TV Shows,Romania,0
+2540,Korean TV Shows,Russia,1
+2541,Korean TV Shows,Saudi Arabia,0
+2542,Korean TV Shows,Serbia,0
+2543,Korean TV Shows,Singapore,1
+2544,Korean TV Shows,Slovenia,0
+2545,Korean TV Shows,Somalia,0
+2546,Korean TV Shows,South Africa,0
+2547,Korean TV Shows,South Korea,107
+2548,Korean TV Shows,Soviet Union,0
+2549,Korean TV Shows,Spain,0
+2550,Korean TV Shows,Sweden,0
+2551,Korean TV Shows,Switzerland,0
+2552,Korean TV Shows,Taiwan,0
+2553,Korean TV Shows,Thailand,0
+2554,Korean TV Shows,Turkey,0
+2555,Korean TV Shows,United Arab Emirates,0
+2556,Korean TV Shows,United Kingdom,0
+2557,Korean TV Shows,United States,4
+2558,Korean TV Shows,Uruguay,0
+2559,Korean TV Shows,Venezuela,0
+2560,Anime Features,Argentina,0
+2561,Anime Features,Australia,0
+2562,Anime Features,Austria,0
+2563,Anime Features,Belgium,0
+2564,Anime Features,Brazil,0
+2565,Anime Features,Bulgaria,0
+2566,Anime Features,Cambodia,0
+2567,Anime Features,Canada,0
+2568,Anime Features,Chile,0
+2569,Anime Features,China,1
+2570,Anime Features,Colombia,0
+2571,Anime Features,Croatia,0
+2572,Anime Features,Cyprus,0
+2573,Anime Features,Czech Republic,0
+2574,Anime Features,Denmark,0
+2575,Anime Features,Egypt,0
+2576,Anime Features,Finland,0
+2577,Anime Features,France,0
+2578,Anime Features,Georgia,0
+2579,Anime Features,Germany,0
+2580,Anime Features,Ghana,0
+2581,Anime Features,Hong Kong,0
+2582,Anime Features,Iceland,0
+2583,Anime Features,India,0
+2584,Anime Features,Indonesia,0
+2585,Anime Features,Iran,0
+2586,Anime Features,Ireland,0
+2587,Anime Features,Israel,0
+2588,Anime Features,Italy,0
+2589,Anime Features,Japan,43
+2590,Anime Features,Lebanon,0
+2591,Anime Features,Malaysia,0
+2592,Anime Features,Mauritius,0
+2593,Anime Features,Mexico,0
+2594,Anime Features,Netherlands,0
+2595,Anime Features,New Zealand,0
+2596,Anime Features,Norway,0
+2597,Anime Features,Pakistan,0
+2598,Anime Features,Paraguay,0
+2599,Anime Features,Peru,0
+2600,Anime Features,Philippines,0
+2601,Anime Features,Poland,0
+2602,Anime Features,Portugal,0
+2603,Anime Features,Romania,0
+2604,Anime Features,Russia,0
+2605,Anime Features,Saudi Arabia,0
+2606,Anime Features,Serbia,0
+2607,Anime Features,Singapore,0
+2608,Anime Features,Slovenia,0
+2609,Anime Features,Somalia,0
+2610,Anime Features,South Africa,0
+2611,Anime Features,South Korea,0
+2612,Anime Features,Soviet Union,0
+2613,Anime Features,Spain,0
+2614,Anime Features,Sweden,0
+2615,Anime Features,Switzerland,0
+2616,Anime Features,Taiwan,0
+2617,Anime Features,Thailand,0
+2618,Anime Features,Turkey,0
+2619,Anime Features,United Arab Emirates,0
+2620,Anime Features,United Kingdom,0
+2621,Anime Features,United States,3
+2622,Anime Features,Uruguay,0
+2623,Anime Features,Venezuela,0
+2624,TV Shows,Argentina,0
+2625,TV Shows,Australia,0
+2626,TV Shows,Austria,0
+2627,TV Shows,Belgium,0
+2628,TV Shows,Brazil,0
+2629,TV Shows,Bulgaria,0
+2630,TV Shows,Cambodia,0
+2631,TV Shows,Canada,0
+2632,TV Shows,Chile,0
+2633,TV Shows,China,0
+2634,TV Shows,Colombia,0
+2635,TV Shows,Croatia,0
+2636,TV Shows,Cyprus,0
+2637,TV Shows,Czech Republic,0
+2638,TV Shows,Denmark,0
+2639,TV Shows,Egypt,0
+2640,TV Shows,Finland,0
+2641,TV Shows,France,0
+2642,TV Shows,Georgia,0
+2643,TV Shows,Germany,0
+2644,TV Shows,Ghana,0
+2645,TV Shows,Hong Kong,0
+2646,TV Shows,Iceland,0
+2647,TV Shows,India,2
+2648,TV Shows,Indonesia,0
+2649,TV Shows,Iran,0
+2650,TV Shows,Ireland,0
+2651,TV Shows,Israel,0
+2652,TV Shows,Italy,0
+2653,TV Shows,Japan,1
+2654,TV Shows,Lebanon,0
+2655,TV Shows,Malaysia,0
+2656,TV Shows,Mauritius,0
+2657,TV Shows,Mexico,0
+2658,TV Shows,Netherlands,0
+2659,TV Shows,New Zealand,0
+2660,TV Shows,Norway,0
+2661,TV Shows,Pakistan,0
+2662,TV Shows,Paraguay,0
+2663,TV Shows,Peru,0
+2664,TV Shows,Philippines,0
+2665,TV Shows,Poland,0
+2666,TV Shows,Portugal,0
+2667,TV Shows,Romania,0
+2668,TV Shows,Russia,0
+2669,TV Shows,Saudi Arabia,0
+2670,TV Shows,Serbia,0
+2671,TV Shows,Singapore,0
+2672,TV Shows,Slovenia,0
+2673,TV Shows,Somalia,0
+2674,TV Shows,South Africa,0
+2675,TV Shows,South Korea,0
+2676,TV Shows,Soviet Union,0
+2677,TV Shows,Spain,0
+2678,TV Shows,Sweden,0
+2679,TV Shows,Switzerland,0
+2680,TV Shows,Taiwan,0
+2681,TV Shows,Thailand,0
+2682,TV Shows,Turkey,0
+2683,TV Shows,United Arab Emirates,0
+2684,TV Shows,United Kingdom,0
+2685,TV Shows,United States,3
+2686,TV Shows,Uruguay,0
+2687,TV Shows,Venezuela,0
