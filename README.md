@@ -1,9 +1,9 @@
 <img src="https://bit.ly/2VnXWr2" alt="Ironhack Logo" width="100"/>
 
-# Title of My Project
-*[Your Name]*
+# Just one more episode
+*Víctor López*
 
-*[Your Cohort, Campus & Date]*
+*DAFT2020, Barcelona & 27/11/2020*
 
 ## Content
 - [Project Description](#project-description)
@@ -14,25 +14,32 @@
 - [Links](#links)
 
 ## Project Description
-Write a short introduction to your project: 3-5 sentences about the context of your topic and why you chose it.
+I'm a huge fan of Netflix and, mostly of all, I love watch series. After scrolling on the platform
+I thought that they are focusing their content in a more series-based rather than films.
 
 ## Questions & Hypotheses
-What are the questions you would like to answer with your analysis? What did you feel were the answers to those questions before answering them with data?
+With this project I want to answer the following questions:
+1. Is Netflix more series-based rather than films?
+2. Which is the content people enjoys more?
+3. Is there any correlation between the content from one country to another?
 
 ## Dataset
-What dataset (or datasets) did you use? What are the different sources you used (e.g. APIs, web scrapping, etc.)? Provide links to the data if available and describe the data briefly.
+There are three datasets obtained from Kaggle (listed below) and web scrapping from IMDb to obtain the ratings.
+1. Main Dataset (https://www.kaggle.com/shivamb/netflix-shows?select=netflix_titles.csv)
+2. Streaming platform Movies (https://www.kaggle.com/ruchi798/movies-on-netflix-prime-video-hulu-and-disney)
+3. Streaming platform Series (https://www.kaggle.com/ruchi798/tv-shows-on-netflix-prime-video-hulu-and-disney)
 
 ## Workflow
-Outline the workflow you used in your project. What are the steps you went through?
+First of all, I had to clean all the datasets to make them useful and able to merge them together.
+Secondly, I merged all the datasets in just one file.
+Third, I started the data analysis using Tableau.
 
 ## Organization
-How did you organize your work? Did you use any tools like a kanban board?
-
-What does your repository look like? Explain your folder and file structure.
+The project has been organized through Trello linked on the next headline.
 
 ## Links
 Include links to your repository, slides and kanban board. Feel free to include any other links associated with your project.
 
-[Repository](https://github.com/)  
-[Slides](https://slides.com/)  
-[Trello](https://trello.com/en)  
+[Repository](https://github.com/VictorLJay/Project-Week-5-Your-Own-Project)  
+[Slides](https://slides.com/victorljay/deck-5a035b)  
+[Trello](https://trello.com/b/L6IhY0qQ/ironhack-project-week-5)  
