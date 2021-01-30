@@ -7,7 +7,7 @@
 
 ## Content
 - [Project Description](#project-description)
-- [Questions & Hypotheses](#questions-&-hypotheses)
+- [Questions & Hypotheses](#questions-and-hypotheses)
 - [Dataset](#dataset)
 - [Workflow](#workflow)
 - [Organization](#organization)
@@ -17,7 +17,7 @@
 I'm a huge fan of Netflix and, mostly of all, I love watch series. After scrolling on the platform
 I thought that they are focusing their content in a more series-based rather than films.
 
-## Questions & Hypotheses
+## Questions and Hypotheses
 With this project I want to answer the following questions:
 1. Is Netflix more series-based rather than films?
 2. Which is the content people enjoys more?
