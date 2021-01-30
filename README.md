@@ -7,7 +7,7 @@
 
 ## Content
 - [Project Description](#project-description)
-- [Questions & Hypotheses](#questions-and-hypotheses)
+- [Questions and Hypotheses](#questions-and-hypotheses)
 - [Dataset](#dataset)
 - [Workflow](#workflow)
 - [Organization](#organization)
